@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Professor Phil Bresnahan
-img: Bresnahan_headshot.jpeg
+img: Bresnahan_kayaking.png
 categories: lab-member-current
 ---
 

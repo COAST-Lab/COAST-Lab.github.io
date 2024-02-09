@@ -1,9 +1,9 @@
 ---
 layout: post
-title: OCN479, Smart Coasts
-date: 2022-08-25
+title: Code of Conduct
+date: 2024-02-09
 img: smart_coasts.jpg # Add image post (optional)
-categories: teaching
+categories: lab-resources
 ---
 
 # Contributor Covenant Code of Conduct
