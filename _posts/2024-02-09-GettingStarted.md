@@ -2,7 +2,7 @@
 layout: post
 title: Code of Conduct
 date: 2024-02-09
-img: smart_coasts.jpg # Add image post (optional)
+img: Summer22.jpeg # Add image post (optional)
 categories: lab-resources
 ---
 
