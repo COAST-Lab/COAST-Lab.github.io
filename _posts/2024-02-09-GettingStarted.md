@@ -26,11 +26,11 @@ Specific factors driving this include:
 - So-called “negative results”; i.e., at some point in your research, it is likely that certain questions will be more challenging to answer than anticipated, or that you will feel you have spent days/months/years toiling with little to show
 - Feelings of imposter syndrome or uncertainty in your abilities
 - Burnout; i.e. feeling the need to work endless hours to make up for the above issues, and the subsequent exhaustion
-- All scientists come across most of these issues at some level (Phil definitely includes himself!). I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. You should also be familiar resources on campus: https://uncw.edu/seahawk-life/health-wellness/counseling/.
+- All scientists come across most of these issues at some level (Phil definitely includes himself!). I strongly encourage everyone in the group to take an active and pre-emptive approach towards the maintenance of their mental health. You should also be familiar resources on campus: [https://uncw.edu/seahawk-life/health-wellness/counseling/](https://uncw.edu/seahawk-life/health-wellness/counseling/).
 
 ## Job Hunting
 - UNCW has a Career Center. Check out their excellent resources for things like resume building, job seeking, refining career interests, etc. 
-- Schmidt Marine Technology Partners has an outstanding job aggregation site: https://jobs.schmidtmarine.org/jobs. No surprise there: Eric Schmidt is one of the cofounders of Google!
+- Schmidt Marine Technology Partners has an outstanding job aggregation site: [https://jobs.schmidtmarine.org/jobs](https://jobs.schmidtmarine.org/jobs). No surprise there: Eric Schmidt is one of the cofounders of Google!
 - Our home department, EOS, has an internship program for undergraduate and graduate students. We recommend checking out the EOS Internship Program website and signing up for the mailing list. This is a great way to learn about both internship and career opportunities. 
 
 ## Conference Attendance
