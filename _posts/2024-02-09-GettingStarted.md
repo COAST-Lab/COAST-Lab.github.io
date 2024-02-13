@@ -1,22 +1,19 @@
 ---
 layout: post
-title: Code of Conduct
-date: 2024-02-09
+title: COAST Lab Resources
+date: 2024-02-13
 img: Summer22.jpeg # Add image post (optional)
 categories: lab-resources
 ---
 
-# COAST Lab Resources
-Hopefully helpful information for COAST Lab members.
+Here you can find some hopefully helpful information for COAST Lab members.
 
-This is a work in progress and not intended to be comprehensive. 
-
-What information do you think should be covered here? Please add an issue or fork this repo, add the needed content, and submit a pull request to have it added!
+This is a work in progress and not intended to be comprehensive. What information do you think should be covered here? Please add an [issue](https://github.com/COAST-Lab/COAST-Lab.github.io/issues) or fork this repo, add the needed content, and submit a pull request to have it added!
 
 The goal of this repository is to provide all COAST Lab members (students, staff, faculty, prospective members, etc.) information that they might need to better understand some element of their roles. An abundance of information exists on UNCW webpages and handbooks, and we try not to provide information identical to that provided elsewhere to avoid confusion. Links to external references are too frequently changed to keep up to date here but we do link to a few key resources. 
 
 ## Joining the COAST Lab
-Please see https://coast-lab.org/lab-members/ for more information regarding opportunities to work with the COAST Lab.
+Please see the main [Lab Members page](../lab-members/#Work) for more information regarding opportunities to work with the COAST Lab.
 
 ## Mental Health
 There is increasing evidence that certain attributes of academic research, including graduate-level studies, may challenge your mental health.
