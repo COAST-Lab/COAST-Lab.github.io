@@ -154,6 +154,7 @@ Please see [Teaching](../teaching/) more details on my courses.
 ·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).  
 
 ### INVITED SEMINARS AND CONFERENCE LEADERSHIP ROLES:
+·	Southeast Coastal Ocean Observing Regional Association, invited seminar speaker (2024)
 ·	Global Marine Science Summit, UNCW, invited speaker (2023)  
 ·	Moss Landing Marine Laboratory, SJSU, invited seminar speaker (2022)  
 ·	Nova Southeastern University’s NSF Field Course in Australia, invited speaker and student mentor (2022)  
@@ -204,7 +205,7 @@ Please see [Teaching](../teaching/) more details on my courses.
 ·	Invited ocean acidification demos for BE-WiSE (Better Education for Women in Science & Engineering) La Jolla chapter (2010–14).  
 
 ### ADDITIONAL TRAINING:
-·	Center for Teaching Excellence Course Design Institute participant (summer 2022)  
+·	Center for Teaching Excellence Course Design Institute participant (Summer 2022)  
 ·	Participant (led by MS student E. Farquhar) in NSF I-Corps Mid-Atlantic Hub Customer Discovery Workshops (2022)
 ·	NASA SeaDAS, NASA ARSET Hyperspectral Data for Land and Coastal Systems, NASA ARSET Measuring Atmospheric Carbon Dioxide from Space in Support of Climate Related Studies (2020–2022)
 ·	UC San Diego Office of Innovation and Commercialization Entrepreneurship Certificate (2019)  
@@ -214,6 +215,8 @@ Please see [Teaching](../teaching/) more details on my courses.
 ·	Spanish (reading, writing, and basic speaking)  
 ·	Center for Scientific Collaboration and Community Engagement's Certificate in Community Engagement Fundamentals:  
 <iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
+·	Center for Scientific Collaboration and Community Engagement's Certificate in Creating Community Playbooks:  
+<iframe src="https://api.badgr.io/public/assertions/iBKxQQT7QBqBiRpBFNQofQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Creating Community Playbooks (PBK)" style="width: 330px; height: 191px; border: 0px;"></iframe>
 
 ### PROFESSIONAL AFFILIATIONS:
 ·	Association for the Sciences of Limnology and Oceanography (2013–present)  
