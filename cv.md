@@ -166,7 +166,6 @@ Please see [Teaching](../teaching/) more details on my courses.
 ·	UC San Diego, Scripps Institutional Seminar (2017, invited by Scripps Director of Innovation and Commercialization)
 ·	UC San Diego, Scripps Applied Ocean Sciences Seminar (2017)  
 ·	UC San Diego, Scripps Marine Chemistry Seminar (2017)  
-·	Session Chair and invited presentation at IEEE/MTS Oceans Conference (2017)  
 ·	Co-organizer of workshop titled “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016)  
 ·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015)  
 
