@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Low-Cost and Open-Source Water Level Sensing
-date: 2022-07-15 00:00:00 -0400
+date: 2024-05-01 00:00:00 -0400
 img: water_level.jpeg # Add image post (optional)
 tags: [oceanography, sensor development] # add tag
 categories: research
