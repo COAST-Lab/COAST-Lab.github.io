@@ -11,4 +11,4 @@ I am originally from Wake Forest, NC (outside of Raleigh) and grew up visiting N
 
 Beyond academia, my passions include dance and fitness, as I have danced competitively for around 17 years, serve as president of my dance team at UNC, and teach group fitness classes through UNC Campus Recreation and private studios across NC. Additionally, I adore traveling, reading, hiking, and spending time outdoors (that one's a given!).
 
-Thanks for reading a little bit about me, and feel free to reach out (glower@unc.edu) or connect (https://www.linkedin.com/in/grace-lower/).
+Thanks for reading a little bit about me, and feel free to reach out [glower@unc.edu](glower@unc.edu) or connect [linkedin.com/in/grace-lower](https://www.linkedin.com/in/grace-lower/).
