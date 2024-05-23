@@ -18,7 +18,7 @@ The article, *A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citiz
 
 Please read the following for a high-level overview of the project and the contents of this repository.
 
-![Water level sensor](Photos/SMCKERR_WL_WL01.jpeg)
+![Water level sensor](../assets/img/for_posts/SMCKERR_WL_WL01.jpeg)
 
 ## 🔌 Introduction to the Sensor
 There are several versions of the DIY water level sensor. They include different microcontrollers (e.g., an Arduino-based Feather Adalogger with internal logging capabilities and a Particle Boron with cellular communication capabilities) and sensor interfacing options (analog, serial, and pulse-width modulation). 
