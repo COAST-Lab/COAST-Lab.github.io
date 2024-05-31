@@ -34,3 +34,9 @@ Deployment is the last step but it's probably the most exciting, so we'll start 
 
 The article, A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research, can be found here: [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101).
 
+## 📈 Live Data
+As we continue to build out our sensor network, we will be adding stations and their data here: 
+
+<div class="resp-container">
+    <iframe class="resp-iframe" src="https://wl.cormp.org/"></iframe>
+</div>
