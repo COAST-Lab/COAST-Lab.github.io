@@ -1,15 +1,15 @@
 ---
 layout: post
-title: SeaHawk/HawkEye Citizen Science
+title: SeaHawk-HawkEye Participatory Science
 date: 2023-02-09 00:00:00 -0400
 img: ChesapeakeBay-December28th-2022.png # Add image post (optional)
 tags: [oceanography, sensor development, citizen science, remote sensing] # add tag
 categories: research
 ---
 
-We have launched a participatory science project as part of the SeaHawk/HawkEye ocean color remote sensing mission. For more information on the broader mission, please visit [SeaHawk/HawkEye Ocean Color Remote Sensing](../seahawk).
+We have launched a participatory science project as part of the SeaHawk-HawkEye ocean color remote sensing mission. For more information on the broader mission, please visit [SeaHawk-HawkEye Ocean Color Remote Sensing](../seahawk).
 
-![Flyer for SeaHawk/HawkEye Citizen Science Project](../assets/img/SeaHawk HawkEye informational flyer.png "SeaHawk/HawkEye Citizen Science Project")
+![Flyer for SeaHawk-HawkEye Citizen Science Project](../assets/img/SeaHawk HawkEye informational flyer.png "SeaHawk/HawkEye Citizen Science Project")
 
 # How-To Resources
 See below for several instructional resources covering the following topics:
