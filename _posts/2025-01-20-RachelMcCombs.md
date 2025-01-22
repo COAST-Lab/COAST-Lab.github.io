@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Rachel McCombs
-img: file:///C:/Users/rache/Downloads/RachelMcCombsHeadshot.JPG 
+img: RachelMcCombsHeadshot.JPG 
 categories: lab-member-current
 ---
 
