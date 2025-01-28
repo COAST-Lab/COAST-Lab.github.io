@@ -1,7 +1,9 @@
-layout: lab-member
-title: Diego Morales
-img: diego_headshot.JPG
-categories: lab-member-current
+---
+  layout: lab-member
+  title: Diego Morales
+  img: diego_headshot.JPG
+  categories: lab-member-current
+---
 
 My name is Diego Morales and I'm a Marine Science Master's student working in the COAST lab with Dr. Bresnahan beginning in the Spring of 2025. During my undergrad at the University of South Carolina, I did research on beach-dune systems through literature review, and I also did research on marine autonomous technology by creating an ASV capable of conducting unsupervised bathymetric surveys.
 
