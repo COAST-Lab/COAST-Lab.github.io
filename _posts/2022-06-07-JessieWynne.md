@@ -3,7 +3,7 @@ title: "Jessie Wynne"
 layout: lab-member
 img: fieldwork_Jessie.JPG
 output: word_document
-categories: lab-member-current
+categories: lab-member-past
 ---
 
 I began my Masters of Marine Science at UNCW in the Fall of 2022. I began working in the COAST Lab working with Dr. Bresnahan in the Summer of '22. I recieved my BS in Biology and minored in Chemistry at Messiah University. 

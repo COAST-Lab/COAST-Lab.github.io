@@ -2,7 +2,7 @@
 layout: lab-member
 title: Mitch Torkelson
 img: Torkelson_Headshot.jpg
-categories: lab-member-current
+categories: lab-member-past
 ---
 
 Greetings. Some of my earliest memories are taking family vacations from my hometown in Iowa to the Atlantic Coast to visit the beach. I was enthralled by the ocean. Years later, in college, I studied abroad in the Galapagos Islands where I began to study marine science. 
