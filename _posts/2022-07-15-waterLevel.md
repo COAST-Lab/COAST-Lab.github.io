@@ -24,7 +24,7 @@ Scroll down or click the following links for more information:
 - [Introduction to the Sensor](#-introduction-to-the-sensor)
 - [How to Build a Sensor](#-how-to-build-a-sensor)
 - [Firmware and getting started guide](https://github.com/COAST-Lab/Open-Water-Level/tree/main/Firmware)
-- [Deployment Considerations](#-Deployment-considerations)
+- [Deployment Considerations](#-deployment-considerations)
 - [Live Data Portal](#-live-data)
 
 ![Water level sensor](../assets/img/for_posts/SMCKERR_WL_WL01.jpeg)
