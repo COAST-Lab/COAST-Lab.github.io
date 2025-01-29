@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Bentley Settin
-img: SettinHeadshot.jpeg
+img: SettinHeadshot.png
 categories: lab-member-current
 ---
 Hey everyone! My name is Bentley Settin and I am orginally from Charlotte, NC. At UNCW, I recieved an undergraduate degree in Oceanography with a minor in biology and was a four year student athlete (soccer, not volleyball)! I orginally came in freshmen year with a love for oysters and algae (and still do) but was overjoyed to be see the opportunity to combine technology and the community! Hence, I joined the COAST lab my junior year and began learning new skills and the joy of low-cost sensor development for the purpose of coastal resilience in the community. Another fun fact about my undergraduate years... I met my husband, Kevin!
