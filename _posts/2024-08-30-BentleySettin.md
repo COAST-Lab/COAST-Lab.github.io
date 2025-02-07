@@ -13,5 +13,5 @@ Now I am a M.S. Marine Science student focusing on coastal resiliency through fl
  Here is a link to my current project: [Open-Water-Level GitHub repo](https://github.com/COAST-Lab/Open-Water-Level)
  
 +Favorite book: Redeeming Love by Francine Rivers 
-+Favorite local spots: Social Coffee (get The Local!), Ceviche's, and PT's #SupportLocals
++Favorite local spots: Social Coffee, Ceviche's, and PT's #SupportLocals
 +Favorite Pasta type: Fusilli
