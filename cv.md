@@ -13,7 +13,8 @@ B.S. Chemical Engineering Summa Cum Laude, May 2008
 Lehigh University, Bethlehem, PA
 
 ### APPOINTMENTS:
-_2020 -- present:_&nbsp;&nbsp;Assistant Professor, UNC Wilmington's Department of Earth and Ocean Sciences and Center for Marine Science  
+_2024 -- present:_&nbsp;&nbsp;Associate Professor, UNC Wilmington's Department of Earth and Ocean Sciences and Center for Marine Science  
+_2020 -- 2024:_&nbsp;&nbsp;Assistant Professor, UNC Wilmington's Department of Earth and Ocean Sciences and Center for Marine Science  
 _2019 -- 2020:_&nbsp;&nbsp;Director of the Sandbox: a Scripps Makerspace, Scripps Institution of Oceanography  
 _2017 -- 2020:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
