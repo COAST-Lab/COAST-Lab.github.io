@@ -47,13 +47,17 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Research donation from Scripps Foundation for Science & the Environment. $5K (2013).  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Fall 2023; * denotes student author_  
+_last updated February 2025; * denotes student author_  
 #### In Review:
-Brewin, R.J.W., Brewin, T., Bresnahan, P.J., Davis, K., Sun, X., Wilson, N., Brunner, L., Dall’Olmo, G. (in review). Lab on a Secchi disk: A prototype opensource profiling package for low-cost monitoring in aquatic environments. Limnology and Oceanography: Methods.
-
-Skelton, Z., McCormick, L., Kwan, G., Lonthair, J., … Bresnahan, P.J., et al. (8th of 34 authors) (in review). Organismal responses to deteriorating water quality during the historic 2020 red tide off Southern California. Elementa: Science of the Anthropocene.
+Devereux, K, Rother, M., Hawkes, A., Bresnahan, P.J., Corbett, D.R. Tree-ring and sediment analyses reveal processes of bald cypress ghost forest formation from dredging in the Cape Fear River, North Carolina, USA. Ecology and Evolution. In review.
 
 #### Published:
+Bresnahan, P.J., Rivero-Calle, S., Morrison, J., Feldman, G., Holmes, A., Bailey, S., Scott, A., Hong, L., Patt, F., Kuring, N., Rojas, C., Clark, C., Charlick, J., Lombard, B., Gorter, H., Travaglini, R., Jeffrey, H. (2024). High-resolution ocean color imagery from the SeaHawk-HawkEye CubeSat mission. Scientific Data 11: 1246. [doi.org/10.1038/s41597-024-04076-4](https://doi.org/10.1038/s41597-024-04076-4).
+
+Brewin, R.J.W., Brewin, T., Bresnahan, P.J., Davis, K., Sun, X., Wilson, N., Brunner, L., Dall’Olmo, G. (2024). Lab on a Secchi disk: A prototype opensource profiling package for low-cost monitoring in aquatic environments. Limnology and Oceanography: Methods 22: 507-526. [doi.org/10.1002/lom3.10624](https://doi.org/10.1002/lom3.10624).
+
+Skelton, Z., McCormick, L., Kwan, G., Lonthair, J., … Bresnahan, P.J., et al. (8th of 34 authors) (2024). Organismal responses to deteriorating water quality during the historic 2020 red tide off Southern California. Elementa: Science of the Anthropocene 12(1). [doi.org/10.1525/elementa.2023.00067](https://doi.org/10.1525/elementa.2023.00067).
+
 Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (2023). A low-cost carbon dioxide monitoring system for coastal and estuarine sensor networks. Oceanography 36(Supplement 1), [doi.org/10.5670/oceanog.2023.s1.4](https://doi.org/10.5670/oceanog.2023.s1.4).
 
 Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Renner, N., Merrifield, M. (2022). A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research. Oceanography. [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101). 
@@ -212,10 +216,11 @@ Please see [Teaching](../teaching/) more details on my courses.
 ·	NAUI dive certified (advanced diver, Nitrox diver, rescue diver) and small-boat certified  
 ·	Proficiency programming in Python, C/C++/Arduino, MATLAB, R, LabVIEW, SolidWorks, MS Office  
 ·	Spanish (reading, writing, and basic speaking)  
-·	Center for Scientific Collaboration and Community Engagement's Certificate in Community Engagement Fundamentals:  
+·	Center for Scientific Collaboration and Community Engagement's Certificate in Community Engagement Fundamentals (2023):  
 <iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
-·	Center for Scientific Collaboration and Community Engagement's Certificate in Creating Community Playbooks:  
+·	Center for Scientific Collaboration and Community Engagement's Certificate in Creating Community Playbooks (2024):  
 <iframe src="https://api.badgr.io/public/assertions/iBKxQQT7QBqBiRpBFNQofQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Creating Community Playbooks (PBK)" style="width: 330px; height: 191px; border: 0px;"></iframe>
+·	Center for Scientific Collaboration and Community Engagement's Introduction to Project Management for Scientists (2025).
 
 ### PROFESSIONAL AFFILIATIONS:
 ·	Association for the Sciences of Limnology and Oceanography (2013–present)  
