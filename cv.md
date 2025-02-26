@@ -118,7 +118,7 @@ Holmes, A., Feldman, G., Bailey, S., Morrison, J., Rivero-Calle, S., Bresnahan, 
 
 Rivero-Calle, S., and Bresnahan, P.J. (2023). SeaHawk validation data. Submitted to NASA SeaBASS Earthdata Repository. [doi.org/10.5067/SeaBASS/SEAHAWK_VALIDATION/DATA001](https://doi.org/10.5067/SeaBASS/SEAHAWK_VALIDATION/DATA001).
 
-Technical contributor to report titled “Coastal Communities Vulnerability Assessment” led by NOAA and Intergovernmental Working Group on Ocean Acidification. In prep.
+Technical Contributor to Ocean Chemistry Coastal Community Vulnerability Assessment (2023). A Report by the Subcommittee on Ocean Science and Technology of the Committee on Environment of the National Science & Technology Council. Office of Science and Technology Policy. [oceanacidification.noaa.gov/wp-content/uploads/2023/08/IWGOA_Vulnerability_Assessment_2023.pdf](https://oceanacidification.noaa.gov/wp-content/uploads/2023/08/IWGOA_Vulnerability_Assessment_2023.pdf).
 
 Bresnahan, P.J., Briggs, E., Davis, B.\*, Rodriguez, A., Edwards, L.\*, Peach, C., Merrifield, M. (2022). GitHub Design Files for Seaport Water Level and Sea Level Rise Monitor. [doi.org/10.5281/zenodo.7324757](https://doi.org/10.5281/zenodo.7324757). 
 
