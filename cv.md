@@ -107,6 +107,12 @@ Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4. [ieeexplore.ieee.org/document/8232342](https://ieeexplore.ieee.org/document/8232342).
 
 ### REPORTS AND TECHNICAL CONTRIBUTIONS:
+Bresnahan, P.J., Lower, G., Lucas, A., Edwards, L., White, D. (2024). GitHub Design Files for Cell and Solar-Enabled Open Water Level Sensor. Zenodo. [doi.org/10.5281/zenodo.13991878](https://doi.org/10.5281/zenodo.13991878).
+
+McBride, D.A., Bresnahan, P.J. (corresponding author), Frensley, B.T., Brewin, R.J.W. (2024). Participatory Science resources for SeaHawk-HawkEye water color observations. Zenodo. [doi.org/10.5281/zenodo.13991921](https://doi.org/10.5281/zenodo.13991921).
+
+Holmes, A., Feldman, G., Bailey, S., Morrison, J., Rivero-Calle, S., Bresnahan, P. J. (corresponding author) (2024). Lessons Learned from the HawkEye-SeaHawk Mission. Zenodo. [doi.org/10.5281/zenodo.12797354](https://doi.org/10.5281/zenodo.12797354).
+
 Rivero-Calle, S., and Bresnahan, P.J. (2023). SeaHawk validation data. Submitted to NASA SeaBASS Earthdata Repository. [doi.org/10.5067/SeaBASS/SEAHAWK_VALIDATION/DATA001](https://doi.org/10.5067/SeaBASS/SEAHAWK_VALIDATION/DATA001).
 
 Technical contributor to report titled “Coastal Communities Vulnerability Assessment” led by NOAA and Intergovernmental Working Group on Ocean Acidification. In prep.
@@ -220,7 +226,7 @@ Please see [Teaching](../teaching/) more details on my courses.
 <iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 ·	Center for Scientific Collaboration and Community Engagement's Certificate in Creating Community Playbooks (2024):  
 <iframe src="https://api.badgr.io/public/assertions/iBKxQQT7QBqBiRpBFNQofQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Creating Community Playbooks (PBK)" style="width: 330px; height: 191px; border: 0px;"></iframe>
-·	Center for Scientific Collaboration and Community Engagement's Introduction to Project Management for Scientists (2025).
+·	Center for Scientific Collaboration and Community Engagement's mini-workshop: Introduction to Project Management for Scientists (2025).
 
 ### PROFESSIONAL AFFILIATIONS:
 ·	Association for the Sciences of Limnology and Oceanography (2013–present)  
