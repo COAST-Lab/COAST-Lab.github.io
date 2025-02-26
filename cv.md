@@ -143,14 +143,38 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 
 ### STUDENT MENTORING:
 Please see [Lab Members](../lab-members/) for the most up-to-date information on our research team.  
-·	Primary advisor for MS students: Elizabeth Farquhar (current), Jessie Wynne (current), Mitch Torkelson (current), Stephen Lail (current), Gina Carney (2023)  
-·	Primary honors thesis advisor for BS student: Sophia Hill (current) and Bentley Settin (current)  
-·	Undergraduate research mentor for: Hailey Seppey (2023 directed independent study), Russell Isobe (2023 summer research assistant), Dorothy Sue Grimmer (2023 directed independent study), Luke Cooper (2023 directed independent study, Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 directed independent study), Jacob Stasiewicz (2022 directed independent study), Michael Tydings (2021 summer research and directed independent study) 
-·	Committee member for MS Geoscience and Marine Science students: Greer Shivers (2022), Carter Eckhardt (2022), Jesse Scopa (2022), Thomas Paine (2023), Kendra Devereux (current), Allison Dombrowski (current).  
-·	Undergraduate honors thesis committee member for Phoebe Whitbeck (current) and Jordan Pilcher (current).
+
+·	Committee chair for PhD in Applied Coastal and Ocean Sciences student:  
+-	Adam Lucas (beginning Fall 2024). Thesis TBD.  
+
+·	Committee chair for Master of Science students:  
+-	Diego Morales (current). Thesis TBD.  
+-	Bentley Settin (current). Thesis TBD.  
+-	Stephen Lail (current), Thesis: Design, fabrication, and application of low-cost Lagrangian drifters: Examining biogeochemical processes of tidal creeks.  
+-	Jessie Wynne (2024), Thesis: Low-cost multiparameter water quality instrument development for participatory science–based evaluation of satellite imagery. Now a Research Specialist at UNC Chapel Hill.  
+-	Mitch Torkelson (2024), Thesis: Integrating in-situ measurements and satellite imagery for coastal biogeochemical analysis in the Cape Fear River Estuary. Now a Geospatial Analyst.  
+-	Elizabeth Farquhar (2023), Thesis: Developing a low-cost device for estimating air–water ∆pCO2 in coastal environments. Now Research Specialist at NC State University.  
+-	Gina Carney (2023). Portfolio: Analytics of seawater pH at in-situ conditions using commercial technology, bench-top spectrophotometry, and citizen science tools. Now a South Carolina Department of Environmental Control as a Water Quantity Hydrogeologist.  
+
+·	Committee chair for Master of Advanced Studies student:  
+-	Vanessa Scott (2019). Capstone: Launching a Wave of Citizen Science Surfers with Smartfin. Now Director of Industry Relations, Innovation & StartBlue Accelerator at Scripps Oceanography.  
+
+·	Undergraduate Honors Thesis committee chair for:  
+-	Bentley Settin (2024), Thesis: Developing an on-device machine learning and cellular transmission camera to facilitate real-time monitoring and alerting of coastal flooding.  
+-	Sophia Hill (2023), Thesis: Developing a bubble equilibrator for the low-cost sensor for the exchange of atmospheric CO2 with water (SEACOW2).  
+
+·	Committee member for Master of Science students: Steven Anderson (current), Brittany Morse (current), Travis Deitz (current), Allison Dombrowski (2024), Kendra Devereux (2024), Thomas Paine (2023), Greer Shivers (2022), Jesse Scopa (2022), Carter Eckhardt (2021)  
+
+·	Undergraduate Honors Thesis committee member for: Cody Wilson (current), Phoebe Whitbeck (2022), Jordan Pilcher (2022)  
+
+·	Undergraduate research mentor for: Grace Lower (2024 summer research assistant), Dylan White (2024 directed independent study), Hailey Seppey (2023 directed independent study), Sam Ogburn (2023 summer NSF Research Experiences for Undergraduates) Russell Isobe (2023 summer research assistant), Dorothy Sue Grimmer (2023 directed independent study), Luke Cooper (2023 directed independent study), Daniel Portelli (2022 summer research assistant), Luke Edwards (2022 summer NSF Research Experiences for Undergraduates), Bentley Settin (2022 directed independent study, 2023 summer research assistant), Jacob Stasiewicz (2022 directed independent study), Michael Tydings (2021 summer research assistant and directed independent study).  
+
 ·	Mentored six NSF Research Experiences for Undergraduates students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (2014–2021).  
-·	Mentored/co-mentored four graduate students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (capstone committee chair for one; 2017–2020).  
+
+·	Mentored three students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (2017–2020).  
+
 ·	Scripps Peers Mentor for two junior graduate students as a senior graduate student (2013–14).
+
 
 ### TEACHING EXPERIENCE:
 Please see [Teaching](../teaching/) more details on my courses.  
