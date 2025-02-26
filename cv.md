@@ -102,7 +102,9 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. [doi.org/10.1021/ac202537f](https://doi.org/10.1021/ac202537f).
 
-### PEER-REVIEWED CONFERENCE PROCEEDINGS:
+### PEER-REVIEWED CONFERENCE PROCEEDINGS AND PRE-PRINTS:
+Farquhar, E., Bresnahan, P.J. (corresponding author), Tydings, M., Jarvis, J.C., Whitehead, R.F., Portelli, D. Developing a low-cost device for estimating air–water ΔpCO2 in coastal environments. EGUSphere (preprint). [doi.org/10.5194/egusphere-2024-3375](https://doi.org/10.5194/egusphere-2024-3375).
+
 Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (2022). Predicting Water Quality Estimates Using Satellite Images in Coastal and Estuarine Environments. Journal of Computing Sciences in Colleges. 38(5), 87–95. [dl.acm.org/doi/epdf/10.5555/3581625.3581633](https://dl.acm.org/doi/epdf/10.5555/3581625.3581633).  
 
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4. [ieeexplore.ieee.org/document/8232342](https://ieeexplore.ieee.org/document/8232342).
