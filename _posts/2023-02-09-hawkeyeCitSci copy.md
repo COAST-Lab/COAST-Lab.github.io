@@ -2,7 +2,7 @@
 layout: post
 title: Sunny Day Flooding Project
 date: 2024-05-15 00:00:00 -0400
-img: ChesapeakeBay-December28th-2022.png # Add image post (optional)
+img: c3po.JPG # Add image post (optional)
 tags: # add tag
 categories: research
 ---
