@@ -1,0 +1,14 @@
+---
+layout: post
+title: Sunny Day Flooding Project
+date: 2024-05-15 00:00:00 -0400
+img: ChesapeakeBay-December28th-2022.png # Add image post (optional)
+tags: # add tag
+categories: research
+---
+
+Our group has had the opportunity to collaborate with the fantastic [Sunny Day Flooding Project](https://sunnydayflooding.com/) team. See their project website for more about the broader goals, and check out the [TinyCamML (real-time Tiny Camera for Machine Learning)](https://github.com/tinycamml) or [C3PO (Coastal Conductivity Communicating Probe)](https://github.com/COAST-Lab/c3po) github repos for examples of our contributions to the much larger effort.
+
+<a href="https://sunnydayflooding.com/">
+<img src="../assets/img/SunnyD.png" alt="sunnydayflooding.com">
+</a>
