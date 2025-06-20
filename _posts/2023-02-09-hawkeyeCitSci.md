@@ -7,9 +7,13 @@ tags: [oceanography, sensor development, citizen science, remote sensing] # add 
 categories: research
 ---
 
-We have launched a Participatory Ocean Color Network (POCN, a participatory/citizen science project) as part of the SeaHawk-HawkEye ocean color remote sensing mission. For more information on POCN, please visit the [Smart Coasts Collaborative website](https://smartcoastscollab.com/projects/).
+We have launched a Participatory Ocean Color Network (POCN, a participatory/citizen science project) as part of the SeaHawk-HawkEye ocean color remote sensing mission. For more information on POCN, please visit the [Smart Coasts Collaborative website](https://smartcoastscollab.com/projects-pocn/).
 
-The resources that were formerly available on this page are now readily available at the [Smart Coasts Collaborative website](https://smartcoastscollab.com/projects/) and the initial release from this site is catalogged at:  
+<a href="https://smartcoastscollab.com/projects-pocn/">
+<img src="../assets/img/SmartCoastsProjectPage.png" alt="SmartCoastsCollaborative.com">
+</a>
+
+The resources that were formerly available on this page are now readily available at the [Smart Coasts Collaborative website](https://smartcoastscollab.com/projects-pocn/) and the initial release from this site is catalogged at:  
 [![DOI](https://zenodo.org/badge/858469161.svg)](https://doi.org/10.5281/zenodo.13991921)
 
 ![Flyer for SeaHawk-HawkEye Citizen Science Project](../assets/img/SeaHawk HawkEye informational flyer.png "SeaHawk/HawkEye Citizen Science Project")
