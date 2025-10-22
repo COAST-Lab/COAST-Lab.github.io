@@ -1,0 +1,15 @@
+current directory: /Users/bresnahanp/Dropbox/COAST-Lab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+/Users/bresnahanp/.rubies/ruby-3.1.3/bin/ruby -I /Users/bresnahanp/.rubies/ruby-3.1.3/lib/ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /Users/bresnahanp/Dropbox/COAST-Lab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251022-33003-l87kyz sitelibdir\=./.gem.20251022-33003-l87kyz clean
+
+current directory: /Users/bresnahanp/Dropbox/COAST-Lab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251022-33003-l87kyz sitelibdir\=./.gem.20251022-33003-l87kyz
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/bresnahanp/Dropbox/COAST-Lab.github.io/vendor/bundle/ruby/3.1.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20251022-33003-l87kyz sitelibdir\=./.gem.20251022-33003-l87kyz install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20251022-33003-l87kyz/racc
