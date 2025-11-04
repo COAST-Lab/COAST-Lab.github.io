@@ -1,4 +1,4 @@
-For the nicely rendered version of my website, please visit [supscientist.github.io](https://supscientist.github.io)
+For the nicely rendered version of my website, please visit [coast-lab.org](https://coast-lab.org)
 
 TODO:
 - Update Research page with current projects
