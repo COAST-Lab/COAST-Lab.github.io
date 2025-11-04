@@ -48,11 +48,24 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Research donation from Scripps Foundation for Science & the Environment. $5K (2013).  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated February 2025; * denotes student author_  
-#### In Review:
-Devereux, K, Rother, M., Hawkes, A., Bresnahan, P.J., Corbett, D.R. Tree-ring and sediment analyses reveal processes of bald cypress ghost forest formation from dredging in the Cape Fear River, North Carolina, USA. Ecology and Evolution. In review.
+_last updated November 2025; * denotes student author_  
+#### Working Papers (*Student Mentee Author)
+Bresnahan, P.J., Hovis, M., Frensley, B.T., Polk, M., Moran, E., Harris, C., Lebby, K., Settin, B.\*, Davidson, J., Kasney, C., Anderson, S.\*, O’Connor, C., Halls, J., Leonard, L., Dorton, J., Alsbrooks, C., and Wells, D. (in review). Hydrological Connectivity: Improving Coastal Literacy and Resilience in Classrooms and Communities in the City of Wilmington.
+
+Farquhar, E., Goldstein, E., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., and Anarde, K. (in review). Detection of coastal flooding with TinyCamML: a low-cost, privacy-preserving cellular-connected camera with onboard ML. Preprint available on Earth ArXiv at [doi.org/10.31223/X5GF20](https://doi.org/10.31223/X5GF20). 
+
+Hovis, M., Polk, M., Bresnahan, P.J., Kasney, C., Davidson, J., Frensley, B.T., Halls, J., Moran, E., Lebby, K., Harris, C., and Leonard, L. (in review). Community Voices in Action: A Framework for Flood Resilience Workshops in a Coastal Community.
+
 
 #### Published:
+Kolluru, S., Rivero-Calle, S., Bresnahan, P.J., Kratzer, S., Moore, T.S., Schroeder, T., Bailey, S., Holmes, A., Morrison, J.M., Feldman, G.F., Hong, L., Higa, H., Arai, K. (2026). Accuracy of SeaHawk-HawkEye Ocean color CubeSat remote sensing reflectance products in globally distributed aquatic sites. Remote Sensing of Environment, 332, 115111. [doi.org/10.1016/j.rse.2025.115111](https://doi.org/10.1016/j.rse.2025.115111).
+ 
+Farquhar, E.\*, Bresnahan, P.J. (corresponding author), Tydings, M.\*, Jarvis, J.C., Whitehead, R.F., Portelli, D.\* (2025). Developing a low-cost device for estimating air–water ΔpCO2 in coastal environments. Sensors. 25(11), 3547. [doi.org/10.3390/s25113547](https://doi.org/10.3390/s25113547).
+
+Brewin, R.J.W., Sun, X., Wood, J.L., Brewin, T.G., McBride, D., Frensley, B.T., Bresnahan, P.J., et al. (41 authors). (2025). An innovation of two established methods for monitoring water colour and clarity: Participatory science using the mini-and midi-Secchi disks. Frontiers in Environmental Science 13 - 2025. [doi.org/10.3389/fenvs.2025.1610130](doi.org/10.3389/fenvs.2025.1610130).
+
+Devereux, K, Rother, M., Hawkes, A., Bresnahan, P.J., Corbett, D.R. (2025). Tree-ring and sediment analyses reveal processes of bald cypress ghost forest formation from dredging in the Cape Fear River, North Carolina, USA. Ecology and Evolution 15: 9. [doi.org/10.1002/ece3.71677](doi.org/10.1002/ece3.71677).
+
 Bresnahan, P.J., Rivero-Calle, S., Morrison, J., Feldman, G., Holmes, A., Bailey, S., Scott, A., Hong, L., Patt, F., Kuring, N., Rojas, C., Clark, C., Charlick, J., Lombard, B., Gorter, H., Travaglini, R., Jeffrey, H. (2024). High-resolution ocean color imagery from the SeaHawk-HawkEye CubeSat mission. Scientific Data 11: 1246. [doi.org/10.1038/s41597-024-04076-4](https://doi.org/10.1038/s41597-024-04076-4).
 
 Brewin, R.J.W., Brewin, T., Bresnahan, P.J., Davis, K., Sun, X., Wilson, N., Brunner, L., Dall’Olmo, G. (2024). Lab on a Secchi disk: A prototype opensource profiling package for low-cost monitoring in aquatic environments. Limnology and Oceanography: Methods 22: 507-526. [doi.org/10.1002/lom3.10624](https://doi.org/10.1002/lom3.10624).
@@ -103,8 +116,6 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. [doi.org/10.1021/ac202537f](https://doi.org/10.1021/ac202537f).
 
 ### PEER-REVIEWED CONFERENCE PROCEEDINGS AND PRE-PRINTS:
-Farquhar, E., Bresnahan, P.J. (corresponding author), Tydings, M., Jarvis, J.C., Whitehead, R.F., Portelli, D. Developing a low-cost device for estimating air–water ΔpCO2 in coastal environments. EGUSphere (preprint). [doi.org/10.5194/egusphere-2024-3375](https://doi.org/10.5194/egusphere-2024-3375).
-
 Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (2022). Predicting Water Quality Estimates Using Satellite Images in Coastal and Estuarine Environments. Journal of Computing Sciences in Colleges. 38(5), 87–95. [dl.acm.org/doi/epdf/10.5555/3581625.3581633](https://dl.acm.org/doi/epdf/10.5555/3581625.3581633).  
 
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4. [ieeexplore.ieee.org/document/8232342](https://ieeexplore.ieee.org/document/8232342).
@@ -135,7 +146,7 @@ Bresnahan, P.J., The Mooring Report: June 2016. Vertical variability of dissolve
 Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San Francisco Bay water quality. SFEI’s water quality science e-newsletter: www.sfei.org/tmr/2016-02.
 
 ### INTELLECTUAL PROPERTY AND INVENTION DISCLOSURES:
-·	Bresnahan, P.J., Tydings, M., Farquhar, E. (2023). Systems and methods for carbon dioxide measurement. U.S. Provisional Patent Application Serial No. _63/441,858_, filed by UNCW, Jan. 30, 2023.  
+·	Bresnahan, P.J., Tydings, M., Farquhar, E. (2024). Systems and methods for carbon dioxide measurement. U.S. Non-Provisional Patent Application No. 18/427,391, filed Jan. 30, 2024, and U.S. Provisional Patent Application No. 63/441,858_, filed by UNCW, Jan. 30, 2023.  
 ·	Martz, T.R., Bresnahan, P.J., Wirth, T., Takeshita, Y. (2022). Self-Calibrating SeapHOx. U.S. Provisional Patent Application Serial No. _63/297,782_, filed by UCSD, Jan. 9, 2022.  
 ·	Brewin, R.J.W., Brewin, T.G., Bresnahan, P.J. (2022) Lab on a Secchi disk. Submitted to Exeter IP Disclosure register, Nov. 17, 2022.  
 ·	Bresnahan, P.J., Martz, T.R. (2018). An internet of things smart sensor accessory for watersports. UCSD Docket SD2018-342.  
@@ -163,9 +174,9 @@ Please see [Lab Members](../lab-members/) for the most up-to-date information on
 -	Bentley Settin (2024), Thesis: Developing an on-device machine learning and cellular transmission camera to facilitate real-time monitoring and alerting of coastal flooding.  
 -	Sophia Hill (2023), Thesis: Developing a bubble equilibrator for the low-cost sensor for the exchange of atmospheric CO2 with water (SEACOW2).  
 
-·	Committee member for Master of Science students: Steven Anderson (current), Brittany Morse (current), Travis Deitz (current), Allison Dombrowski (2024), Kendra Devereux (2024), Thomas Paine (2023), Greer Shivers (2022), Jesse Scopa (2022), Carter Eckhardt (2021)  
+·	Committee member for Master of Science students: Benjamin Middour (current), Mira Anderberg (current), Steven Anderson (current), Brittany Morse (current), Madison Gerdes (current), Travis Deitz (current), Allison Dombrowski (2024), Kendra Devereux (2024), Thomas Paine (2023), Greer Shivers (2022), Jesse Scopa (2022), Carter Eckhardt (2021)  
 
-·	Undergraduate Honors Thesis committee member for: Cody Wilson (current), Phoebe Whitbeck (2022), Jordan Pilcher (2022)  
+·	Undergraduate Honors Thesis committee member for: Emily Weber (current), Emmy Tublin (current), Phoebe Whitbeck (2022), Jordan Pilcher (2022)  
 
 ·	Undergraduate research mentor for: Grace Lower (2024 summer research assistant), Dylan White (2024 directed independent study), Hailey Seppey (2023 directed independent study), Sam Ogburn (2023 summer NSF Research Experiences for Undergraduates) Russell Isobe (2023 summer research assistant), Dorothy Sue Grimmer (2023 directed independent study), Luke Cooper (2023 directed independent study), Daniel Portelli (2022 summer research assistant), Luke Edwards (2022 summer NSF Research Experiences for Undergraduates), Bentley Settin (2022 directed independent study, 2023 summer research assistant), Jacob Stasiewicz (2022 directed independent study), Michael Tydings (2021 summer research assistant and directed independent study).  
 
@@ -228,7 +239,7 @@ Please see [Teaching](../teaching/) more details on my courses.
 ·	Proposal reviewer for NSF OTIC (2021)  
 ·	Proposal reviewer for NOAA Ocean Acidification Program (2020)  
 ·	Proposal Reviewer for Woods Hole Sea Grant (2019)  
-·	Peer reviewer for: Limnology & Oceanography: Methods, Ocean Science, Continental Shelf Research, Oceanography, Sustainability, Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE, Results in Engineering  
+·	Peer reviewer for: Environmental Monitoring & Assessment, Limnology & Oceanography: Methods, Ocean Science, Continental Shelf Research, Oceanography, Sustainability, Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE, Results in Engineering  
 
 ### OUTREACH AND INFORMAL EDUCATION:
 ·	For a list of and hyperlinks to > 30 interviews, please see 
