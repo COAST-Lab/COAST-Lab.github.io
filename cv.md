@@ -263,8 +263,10 @@ Please see [Teaching](../teaching/) more details on my courses.
 ·	Center for Scientific Collaboration and Community Engagement's Certificate in Community Engagement Fundamentals (2023):  
 <iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 ·	Center for Scientific Collaboration and Community Engagement's Certificate in Creating Community Playbooks (2024):  
-<iframe src="https://api.badgr.io/public/assertions/iBKxQQT7QBqBiRpBFNQofQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Creating Community Playbooks (PBK)" style="width: 330px; height: 191px; border: 0px;"></iframe>
-·	Center for Scientific Collaboration and Community Engagement's mini-workshop: Introduction to Project Management for Scientists (2025).
+<iframe src="https://api.badgr.io/public/assertions/iBKxQQT7QBqBiRpBFNQofQ?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Creating Community Playbooks (PBK)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
+·	Center for Scientific Collaboration and Community Engagement's mini-workshop: Introduction to Project Management for Scientists (2025).  
+·	Center for Scientific Collaboration and Community Engagement's Certficate in Project Management for Scientists (2025):  
+<iframe src="https://badges.parchment.com/public/assertions/GE026tvPTeOz3WBfncVAIw?embedVersion=1&amp;embedWidth=370&amp;embedHeight=167" title="Badge: Project Management for Scientists Bootcamp" style="width: 370px; height: 167px; border: 0px;"></iframe>
 
 ### PROFESSIONAL AFFILIATIONS:
 ·	Association for the Sciences of Limnology and Oceanography (2013–present)  
