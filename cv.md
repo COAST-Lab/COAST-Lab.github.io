@@ -50,14 +50,15 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated November 2025; * denotes student author_  
 #### Working Papers (*Student Mentee Author)
-Bresnahan, P.J., Hovis, M., Frensley, B.T., Polk, M., Moran, E., Harris, C., Lebby, K., Settin, B.\*, Davidson, J., Kasney, C., Anderson, S.\*, O’Connor, C., Halls, J., Leonard, L., Dorton, J., Alsbrooks, C., and Wells, D. (in review). Hydrological Connectivity: Improving Coastal Literacy and Resilience in Classrooms and Communities in the City of Wilmington.
-
 Farquhar, E., Goldstein, E., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., and Anarde, K. (in review). Detection of coastal flooding with TinyCamML: a low-cost, privacy-preserving cellular-connected camera with onboard ML. Preprint available on Earth ArXiv at [doi.org/10.31223/X5GF20](https://doi.org/10.31223/X5GF20). 
 
-Hovis, M., Polk, M., Bresnahan, P.J., Kasney, C., Davidson, J., Frensley, B.T., Halls, J., Moran, E., Lebby, K., Harris, C., and Leonard, L. (in review). Community Voices in Action: A Framework for Flood Resilience Workshops in a Coastal Community.
-
+Cross, J.N., Achterberg, E.P., Atamanchuk, D., Bresnahan, P.J., Byrne, R.H., DeGrandpre, M.D., Fennel, K., Hales, B., Loucaides, S., Martz, T.R., Savoie, A.M., & Wang, Z.A. (in review). Marine carbonate chemistry observing and mCDR: new processes, needs, and systems.
 
 #### Published:
+Bresnahan, P.J., Hovis, M., Frensley, B.T., Polk, M., Moran, E., Harris, C., Lebby, K., Settin, B.\*, Davidson, J.\*, Kasney, C.\*, Anderson, S.\*, O’Connor, C., Halls, J.N., Leonard, L., Dorton, J., Alsbrooks, C., & Wells, D. (2026). Hydrological connectivity: improving coastal literacy and resilience in classrooms and communities in the City of Wilmington [Community Case Study]. Frontiers in Water, Volume 7 - 2025. [doi.org/10.3389/frwa.2025.1719742](https://doi.org/10.3389/frwa.2025.1719742).
+
+Hovis, M., Polk, M., Bresnahan, P.J., Kasney, C.\*, Davidson, J.\*, Frensley, B.T., Halls, J., Moran, E., Lebby, K., Harris, C., & Leonard, L. (2026). Community Voices in Action: A Framework for Flood Resilience Workshops in a Coastal Community. Community Science, 5(1), e2025CSJ000161. [doi.org/10.1029/2025CSJ000161](https://doi.org/10.1029/2025CSJ000161). 
+
 Kolluru, S., Rivero-Calle, S., Bresnahan, P.J., Kratzer, S., Moore, T.S., Schroeder, T., Bailey, S., Holmes, A., Morrison, J.M., Feldman, G.F., Hong, L., Higa, H., Arai, K. (2026). Accuracy of SeaHawk-HawkEye Ocean color CubeSat remote sensing reflectance products in globally distributed aquatic sites. Remote Sensing of Environment, 332, 115111. [doi.org/10.1016/j.rse.2025.115111](https://doi.org/10.1016/j.rse.2025.115111).
  
 Farquhar, E.\*, Bresnahan, P.J. (corresponding author), Tydings, M.\*, Jarvis, J.C., Whitehead, R.F., Portelli, D.\* (2025). Developing a low-cost device for estimating air–water ΔpCO2 in coastal environments. Sensors. 25(11), 3547. [doi.org/10.3390/s25113547](https://doi.org/10.3390/s25113547).
