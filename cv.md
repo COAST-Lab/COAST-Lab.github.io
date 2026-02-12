@@ -33,19 +33,34 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### GRANTS:
-·	Charles L. Cahill Grant, UNCW Research Office. Rother, M. (PI), **Bresnahan, P.J.**, and Hawkes, A. (co-PIs). A multidisciplinary approach to assessing the vulnerability of baldcypress wetlands to flooding and increased salinity levels. $12K (2023–24).  
-·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. **Bresnahan, P.J.** (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2.2M (2022-25).  
-·	NSF Major Research Instrumentation: Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI), Leonard, L., Halls, J., **Bresnahan, P.J.**, and Eulie, D. (co-PIs). $851K (2022-25).  
-·	NOAA Small Business Innovative Research Phase II: The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), **Bresnahan, P.J.** (Key Individual). Total budget $500K; UNCW subaward $28K (2022-24).  
-·	NOAA Small Business Innovative Research Phase I: pHyter: An Oceanographic Tool for Citizen Science and STEM Education. Spaulding, R. (PI, Sunburst Systems, Inc.), **Bresnahan, P.J.** (Key Individual), and others. Total budget $150K; UNCW subaward $15K (2021).  
-·	Research Momentum Funds, UNCW Research Office. **Bresnahan, P.J.** (PI), Pricope, N. & Halls, J. (co-PIs). $5.5K (2020).  
-·	UNCW Office of Innovation and Commercialization MARBIONC Blue Economy Grant (PI). $11.5K (2020).  
-·	Ellen Browning Scripps Foundation Award (PI). $15K (2019).  
-·	San Diego Gas & Electric Community Engagement Award (PI). $7.5K (2018).  
-·	UCSD Institute for the Global Entrepreneur Award (PI). $1K (2018).  
-·	NSF-OTIC Award 1736905: Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. **Bresnahan, P.J.**, and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $675K (2017-2020).  
-·	Helped attract major research donation from Lost Bird Project and led research and project/budget management. In collaboration with Martz, T., Andersson, A., and Cyronak, T. $1.25M (2016).  
-·	Research donation from Scripps Foundation for Science & the Environment. $5K (2013).  
+*Awarded:*  
+·	WRRI-USGS 104b: Canaries in the coal mine; ghost forests signal ecosystem and water quality degradation. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $120,000 (2025–27). Received notice of intent to fund in Apr. 2025; however, agency has not received its federal appropriations, and no funds have been received as of Oct. 2025.  
+  
+*Active:*  
+·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. Bresnahan, P.J. (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2,220,332 (2022–26).  
+·	NSF Major Research Instrumentation (2215839): Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI 2022–23), Bresnahan, P.J. (co-PI on proposal, PI of funded project 2023–present), Leonard, L., Halls, J., and Eulie, D. (co-PIs). $850,863 (2022–26).  
+·	UNCW Research Office, Interdisciplinary Research Seminar Series. The Flood Risk and Resilience Seminar Series: Advancing Research-Based Solutions for Coastal North Carolina. Hovis, M. (PI), Leonard, L., Halls, J., Bresnahan, P.J., Schuhmann, P., Song, Y., Sutter, L., Biddle, J. (Co-PIs). $10,000 (2025–26).  
+·	UNCW Sustainability Office, The Green Initiative Fund. Ghost Forest Formation Along the Cape Fear River of North Carolina, USA. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $2,677 (2025–26).  
+·	NSF Division of Computer and Network Systems (2244123): REU Site: Engineers for Exploration. Kastner, R., and Schurgers, C. (PIs), Bresnahan, P.J. (Senior Personnel). $473,631 (2023–26).  
+·	University of North Carolina System Office. Real-Time, IoT Monitoring of UNC Wilmington’s Living Laboratories: Applications in Flood and Water Quality Research to Address Sustainability and Resilience. Leonard, L. (PI), Bresnahan, P.J. (Co-PI). $24,997 (2024–25).
+  
+*Completed:*  
+·	North Carolina Sea Grant and Water Resources Research Institute Community Collaborative Research Grant. Hydrological Connectivity: Improving Coastal Literacy and Resilience in Classrooms and Communities in the City of Wilmington. Bresnahan, P.J. (PI), Harris, C., Halls, J., Leonard, L., Frensley, B.T., Moran, E. (Co-PIs). $24,916 (2024–25).  
+·	UNCW Office of Applied Learning Community Based Learning & Scholarship Grant. Co-producing knowledge to build resilient communities in the face of climate change. Hovis, M. (PI), Bresnahan, P.J., Frensley, B.T., Harris, C. (Co-PIs). $7,500 (2025).  
+·	UNCW Center for Marine Science/University of Hull Collaborative Grant Opportunity. Building a Bi-National, Hyperlocal Data Twin for Improved Coastal Water Resource Monitoring and Resilience. Bresnahan, P.J. (PI), Osborne, A., McLelland, S., Thomas, R. (Co-PIs). $9,000 (2025).  
+·	UNCW Research Office, Charles L. Cahill Grant. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (co-PIs). A multidisciplinary approach to assessing the vulnerability of bald cypress wetlands to flooding and increased salinity levels. $11,923 (2023–24).  
+·	UNCW Research Office, Research Momentum Funds. Surfing for science: Advancing informal STEM learning through a large-scale network for public participation in science in diverse coastal communities. Frensley, B.T. (PI), Bresnahan, P.J. (co-PI). $20,000 (2024).  
+·	NOAA Small Business Innovative Research Phase II (NA22OAR0210490): The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), Bresnahan, P.J. (Key Individual). $499,986 (2022–23).  
+·	NOAA Small Business Innovative Research Phase I (NA21OAR0210489): pHyter: An Oceanographic Tool for Citizen Science and STEM Education. Spaulding, R. (PI, Sunburst Systems, Inc.), Beck, J., and Bresnahan, P.J. (Key Individual). $149,991 (2021–22).  
+·	UNCW Office of Innovation and Commercialization MARBIONC Blue Economy Grant: A low-cost coastal carbon flux analyzer. Bresnahan, P.J. (PI). $11,466 (2020).  
+·	UNCW Research Office, Research Momentum Funds: Exploring spatiotemporal variability in carbon dioxide fluxes via novel sensor/drone/satellite integrations. Bresnahan, P.J. (PI), Pricope, N. and Halls, J. (co-PIs). $5,500 (2020).  
+·	Joint CeNCOOS and SCCOOS (Central and Northern and Southern California Coastal Ocean Observing Systems) 5-year Planning Opportunity. National Oceanic and Atmospheric Administration: Towards interoperable pH measurements from the shore station network using self-calibrating pH sensors, Martz, T.R. (PI), Smith, J., Carter, M., Takeshita, Y., Bockmon, E., Walter, R., Kudela, R., Bresnahan, P.J. (Co-Is). $510,000. (2020–25). (NB: I contributed to proposal but left the state when award was granted; funds were disbursed to CA-only investigators.)  
+·	NSF Ocean Technology and Interdisciplinary Coordination (1736905): Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. Bresnahan, P.J., and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $675,399 (2017–21).  
+·	Lost Bird Project. Smartfin research and development. Helped attract research donation; led research and project/budget management as PI. In collaboration with Martz, T., Andersson, A., and Cyronak, T. $1,250,000 (2016–19).  
+·	Ellen Browning Scripps Foundation Award (PI). $15,000 (2019).  
+·	San Diego Gas & Electric Community Engagement Award (PI). $7,500 (2018).  
+·	UCSD Institute for the Global Entrepreneur Award (PI). $1,000 (2018).  
+·	Research donation from Scripps Foundation for Science & the Environment (PI). $5,000 (2013).
 
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated November 2025; * denotes student author_  
