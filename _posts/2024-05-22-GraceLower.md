@@ -2,7 +2,7 @@
 layout: lab-member
 title: Grace Lower
 img: GraceLowerHeadshot.jpg
-categories: lab-member-current
+categories: lab-member-past
 ---
 
 Hello! My name is Grace Lower, and I'm a rising senior at UNC Chapel Hill studying Environmental Health Science in the Gillings School of Global Public Health. I am incredibly excited to be working in The COAST Lab this summer, assisting in the development of low-cost coastal water quality sensors and exploring the intersections between environmental science, oceanography, human health, and engineering!

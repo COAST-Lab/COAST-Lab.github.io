@@ -2,7 +2,7 @@
 layout: lab-member
 title: Rachel McCombs
 img: RachelMcCombsHeadshot.JPG 
-categories: lab-member-current
+categories: lab-member-past
 ---
 
 Hi! My name is Rachel McCombs, and I'm a sophomore at UNC Wilmington majoring in Oceanography with a minor in Environmental Science. I'm very excited to be able to work with Dr. Bresnahan in the COAST Lab for DIS.
