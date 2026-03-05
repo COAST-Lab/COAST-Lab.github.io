@@ -137,6 +137,14 @@ Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4. [ieeexplore.ieee.org/document/8232342](https://ieeexplore.ieee.org/document/8232342).
 
 ### REPORTS AND TECHNICAL CONTRIBUTIONS:
+Chelsky, A., Art, K., Diamant, C., King, E., MacVean, L., Mongomery, L., Mourier, L., Noland, K., Novick, E., Roberts, D., Sylvester, Z., Volaric, M., Winchell, T., Senn, D. (2026). San Francisco Bay High-frequency Water Quality Sensor Data ver 1. Environmental Data Initiative. [doi.org/10.6073/pasta/69b73427d4f9021e2fbcf7b89bbfbf23](https://doi.org/10.6073/pasta/69b73427d4f9021e2fbcf7b89bbfbf23).
+
+Davidson, J., Frensley, B.T., Moran, E., Settin, B., O'connor, C., and Bresnahan, P.J. (2025). 2025 Flood Resilience Youth Program Evaluation Report. Zenodo. [doi.org/10.5281/zenodo.16694152](https://doi.org/10.5281/zenodo.16694152). 
+
+Farquhar, E., Settin, B., Goldstein, E.B., Stasiewicz, J., Saenz, M., Bresnahan, P.J. (2025). TinyCamML/TinyCamML. Zenodo. v0.2. [doi.org/10.5281/zenodo.15019916](https://doi.org/10.5281/zenodo.15019916). 
+
+Farquhar, E.*, Bresnahan, P.J., Tydings, M., Portelli, D. (2025). GitHub Design Files for System for the Exchange of CO2 with Water. Zenodo. v1.0.1. [doi.org/10.5281/zenodo.15122776](https://doi.org/10.5281/zenodo.15122776).
+
 Bresnahan, P.J., Lower, G., Lucas, A., Edwards, L., White, D. (2024). GitHub Design Files for Cell and Solar-Enabled Open Water Level Sensor. Zenodo. [doi.org/10.5281/zenodo.13991878](https://doi.org/10.5281/zenodo.13991878).
 
 McBride, D.A., Bresnahan, P.J. (corresponding author), Frensley, B.T., Brewin, R.J.W. (2024). Participatory Science resources for SeaHawk-HawkEye water color observations. Zenodo. [doi.org/10.5281/zenodo.13991921](https://doi.org/10.5281/zenodo.13991921).
