@@ -65,11 +65,11 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated November 2025; * denotes student author_  
 #### Working Papers (*Student Mentee Author)
-Farquhar, E., Goldstein, E., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., and Anarde, K. (in review). Detection of coastal flooding with TinyCamML: a low-cost, privacy-preserving cellular-connected camera with onboard ML. Preprint available on Earth ArXiv at [doi.org/10.31223/X5GF20](https://doi.org/10.31223/X5GF20). 
-
 Cross, J.N., Achterberg, E.P., Atamanchuk, D., Bresnahan, P.J., Byrne, R.H., DeGrandpre, M.D., Fennel, K., Hales, B., Loucaides, S., Martz, T.R., Savoie, A.M., & Wang, Z.A. (in review). Marine carbonate chemistry observing and mCDR: new processes, needs, and systems.
 
 #### Published:
+Farquhar, E.B., Goldstein, E.B., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., & Anarde, K. (2026). Detection of Coastal Flooding With TinyCamML: A Low-Cost, Privacy-Preserving Cellular-Connected Camera With Onboard ML. Water Resour Res, 62(3), e2025WR042023. [doi.org/10.1029/2025WR042023](https://doi.org/10.1029/2025WR042023).
+
 Bresnahan, P.J., Hovis, M., Frensley, B.T., Polk, M., Moran, E., Harris, C., Lebby, K., Settin, B.\*, Davidson, J.\*, Kasney, C.\*, Anderson, S.\*, O’Connor, C., Halls, J.N., Leonard, L., Dorton, J., Alsbrooks, C., & Wells, D. (2026). Hydrological connectivity: improving coastal literacy and resilience in classrooms and communities in the City of Wilmington [Community Case Study]. Frontiers in Water, Volume 7 - 2025. [doi.org/10.3389/frwa.2025.1719742](https://doi.org/10.3389/frwa.2025.1719742).
 
 Hovis, M., Polk, M., Bresnahan, P.J., Kasney, C.\*, Davidson, J.\*, Frensley, B.T., Halls, J., Moran, E., Lebby, K., Harris, C., & Leonard, L. (2026). Community Voices in Action: A Framework for Flood Resilience Workshops in a Coastal Community. Community Science, 5(1), e2025CSJ000161. [doi.org/10.1029/2025CSJ000161](https://doi.org/10.1029/2025CSJ000161). 
@@ -132,6 +132,8 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. [doi.org/10.1021/ac202537f](https://doi.org/10.1021/ac202537f).
 
 ### PEER-REVIEWED CONFERENCE PROCEEDINGS AND PRE-PRINTS:
+Farquhar, E., Goldstein, E., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., and Anarde, K. (in review). Detection of coastal flooding with TinyCamML: a low-cost, privacy-preserving cellular-connected camera with onboard ML. Preprint available on Earth ArXiv at [doi.org/10.31223/X5GF20](https://doi.org/10.31223/X5GF20). 
+
 Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (2022). Predicting Water Quality Estimates Using Satellite Images in Coastal and Estuarine Environments. Journal of Computing Sciences in Colleges. 38(5), 87–95. [dl.acm.org/doi/epdf/10.5555/3581625.3581633](https://dl.acm.org/doi/epdf/10.5555/3581625.3581633).  
 
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4. [ieeexplore.ieee.org/document/8232342](https://ieeexplore.ieee.org/document/8232342).
