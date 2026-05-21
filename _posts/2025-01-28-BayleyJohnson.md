@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Bayley Johnson
-categories: lab-member-current
+categories: lab-member-past
 ---
 
 Hi, my name is Bayley Johnson. I am a marine biology major with an Oceanography minor in my Junior year at the University of North Carolina at Wilmington Doing a DIS looking at the Water Quality around the Masonboro Inlet 

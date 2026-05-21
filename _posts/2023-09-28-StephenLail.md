@@ -2,7 +2,7 @@
 layout: lab-member
 title: Stephen Lail
 img: Lail_Stephen_image.jpg
-categories: lab-member-current
+categories: lab-member-past
 ---
 My name is Stephen Lail and I am a Marine Science Master's Student working in the COAST Lab with Dr. Bresnahan.
 

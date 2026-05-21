@@ -8,6 +8,11 @@ tags: [water quality, remote sensing, oceanography, satellite imagery, environme
 categories: research
 ---
 
+This project was published in an article led by Mitch Torkelson in May 2026. For more information, check out [Torkelson, M.*, Bresnahan, P.J. (corresponding author), Rivero-Calle, S., Masud-Ul-Alam, M., Brewin, R.J.W., & Wells, D. (2026). Integrating In Situ Measurements and Satellite Imagery for Coastal Physical and Biological Analysis in the Cape Fear Coastal Region. Remote Sensing, 18(10), 1524. doi.org/10.3390/rs18101524](https://doi.org/10.3390/rs18101524).
+
+### Pre-Publication Background Info
+As noted above, our manuscript on this work was accepted for publication; please see that article for published results and see below for Mitch's description of the project from his graduate school days.  
+
 Project led by [Mitch Torkelson](../MitchTorkelson/). See Mitch's full researchportfolio here: [https://dinodiver.github.io/mitchtorkelson/](https://dinodiver.github.io/mitchtorkelson/).
 
 ### Introduction
