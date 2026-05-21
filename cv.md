@@ -18,33 +18,37 @@ _2020 -- 2024:_&nbsp;&nbsp;Assistant Professor, UNC Wilmington's Department of E
 _2019 -- 2020:_&nbsp;&nbsp;Director of the Sandbox: a Scripps Makerspace, Scripps Institution of Oceanography  
 _2017 -- 2020:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
-_2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
+_2009 -- 2015:_&nbsp;&nbsp;Graduate Student Researcher, Scripps Institution of Oceanography
+_2010 -- 2012:_&nbsp;&nbsp;Graduate Commercialization Analyst, Scripps Institution of Oceanography
 
 ### AWARDS AND HONORS
-·	Departmental Citizenship Award, Department of Earth and Ocean Sciences, UNCW (Inaugural recipient, 2023). *"To recognize exemplary behavior of a Department of Earth and Ocean Sciences faculty member based on overall and well-rounded contributions to all three evaluative areas (Teaching, Research+Scholarship, Service) in combination with outstanding collegial behavior."*  
+·	Invited speaker at US Representatives Rouzer’s (NC-07) and Murphy’s (NC-03) Water Adaptations to Ensure Regional Success (WATERS) Summit (2025).  
+·	Departmental Citizenship Award, Department of Earth and Ocean Sciences, UNCW (Inaugural recipient, 2023). “To recognize exemplary behavior of a Department of Earth and Ocean Sciences faculty member based on overall and well-rounded contributions to all three evaluative areas (Teaching, Research+Scholarship, Service) in combination with outstanding collegial behavior.”  
 ·	Invited as one of four speakers for the National Science Foundation Frontiers in Ocean Science Symposium (2020) and as a return alumnus panelist (2021).  
-·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014).  
 ·	Dissertations Symposium in Chemical Oceanography (DISCO) XXIV Invitee (2014).  
-·	Scripps Student Symposium (S3) award for best talk (2014).  
+·	Scripps Student Symposium award for best talk (2014).  
 ·	Scripps student video competition: Best Video in Climate, Ocean, and Atmosphere Program (2014).  
-·	Scripps Community Outreach Program for Education most frequent volunteer (2013 & 2014).    
-·	National Defense Science & Engineering Graduate Fellowship (2010 – 13).  
-·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09).  
+·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014).  
+·	Scripps Community Outreach for Public Education most frequent volunteer (2013 & 2014).  
+·	National Defense Science & Engineering Graduate Fellowship (NDSEG, 2010–13).  
+·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008–09).  
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### GRANTS:
-*Awarded:*  
-·	WRRI-USGS 104b: Canaries in the coal mine; ghost forests signal ecosystem and water quality degradation. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $120,000 (2025–27). Received notice of intent to fund in Apr. 2025; however, agency has not received its federal appropriations, and no funds have been received as of Oct. 2025.  
-  
+Total funding managed as PI or Project Director: $5,568,476.  
+
 *Active:*  
+·	New Hanover County Endowment: Planning enhanced flood safety and resilience for New Hanover County: Phase 1. Halanych, K. (PI), Bresnahan, P.J. (Co-PI and Project Director), Leonard, L. (Co-PI). $500,000 (2025–27).  
+·	WRRI-USGS 104b: Canaries in the coal mine; ghost forests signal ecosystem and water quality degradation. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $120,000 (2026–28).  
+·	University of North Carolina System Office: Enhancement of IoT Flood and Water Quality Monitoring: Collaborative Real-Time Monitoring of Flood Drivers and Impacts across the State. Leonard, L. (PI), Bresnahan, P.J., and Hovis, M. (Co-PIs). $25,000 (2026).  
 ·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. Bresnahan, P.J. (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2,220,332 (2022–26).  
 ·	NSF Major Research Instrumentation (2215839): Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI 2022–23), Bresnahan, P.J. (co-PI on proposal, PI of funded project 2023–present), Leonard, L., Halls, J., and Eulie, D. (co-PIs). $850,863 (2022–26).  
+
+*Completed:*  
 ·	UNCW Research Office, Interdisciplinary Research Seminar Series. The Flood Risk and Resilience Seminar Series: Advancing Research-Based Solutions for Coastal North Carolina. Hovis, M. (PI), Leonard, L., Halls, J., Bresnahan, P.J., Schuhmann, P., Song, Y., Sutter, L., Biddle, J. (Co-PIs). $10,000 (2025–26).  
 ·	UNCW Sustainability Office, The Green Initiative Fund. Ghost Forest Formation Along the Cape Fear River of North Carolina, USA. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $2,677 (2025–26).  
 ·	NSF Division of Computer and Network Systems (2244123): REU Site: Engineers for Exploration. Kastner, R., and Schurgers, C. (PIs), Bresnahan, P.J. (Senior Personnel). $473,631 (2023–26).  
 ·	University of North Carolina System Office. Real-Time, IoT Monitoring of UNC Wilmington’s Living Laboratories: Applications in Flood and Water Quality Research to Address Sustainability and Resilience. Leonard, L. (PI), Bresnahan, P.J. (Co-PI). $24,997 (2024–25).
-  
-*Completed:*  
 ·	North Carolina Sea Grant and Water Resources Research Institute Community Collaborative Research Grant. Hydrological Connectivity: Improving Coastal Literacy and Resilience in Classrooms and Communities in the City of Wilmington. Bresnahan, P.J. (PI), Harris, C., Halls, J., Leonard, L., Frensley, B.T., Moran, E. (Co-PIs). $24,916 (2024–25).  
 ·	UNCW Office of Applied Learning Community Based Learning & Scholarship Grant. Co-producing knowledge to build resilient communities in the face of climate change. Hovis, M. (PI), Bresnahan, P.J., Frensley, B.T., Harris, C. (Co-PIs). $7,500 (2025).  
 ·	UNCW Center for Marine Science/University of Hull Collaborative Grant Opportunity. Building a Bi-National, Hyperlocal Data Twin for Improved Coastal Water Resource Monitoring and Resilience. Bresnahan, P.J. (PI), Osborne, A., McLelland, S., Thomas, R. (Co-PIs). $9,000 (2025).  
@@ -63,11 +67,10 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Research donation from Scripps Foundation for Science & the Environment (PI). $5,000 (2013).
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated November 2025; * denotes student author_  
-#### Working Papers (*Student Mentee Author)
-Cross, J.N., Achterberg, E.P., Atamanchuk, D., Bresnahan, P.J., Byrne, R.H., DeGrandpre, M.D., Fennel, K., Hales, B., Loucaides, S., Martz, T.R., Savoie, A.M., & Wang, Z.A. (in review). Marine carbonate chemistry observing and mCDR: new processes, needs, and systems.
-
+_last updated May 2026; * denotes student author_  
 #### Published:
+Torkelson, M.\*, Bresnahan, P.J. (corresponding author), Rivero-Calle, S., Masud-Ul-Alam, M., Brewin, R.J.W., & Wells, D. (2026). Integrating In Situ Measurements and Satellite Imagery for Coastal Physical and Biological Analysis in the Cape Fear Coastal Region. Remote Sensing, 18(10), 1524. [doi.org/10.3390/rs18101524](https://doi.org/10.3390/rs18101524).
+
 Farquhar, E.B., Goldstein, E.B., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., & Anarde, K. (2026). Detection of Coastal Flooding With TinyCamML: A Low-Cost, Privacy-Preserving Cellular-Connected Camera With Onboard ML. Water Resour Res, 62(3), e2025WR042023. [doi.org/10.1029/2025WR042023](https://doi.org/10.1029/2025WR042023).
 
 Bresnahan, P.J., Hovis, M., Frensley, B.T., Polk, M., Moran, E., Harris, C., Lebby, K., Settin, B.\*, Davidson, J.\*, Kasney, C.\*, Anderson, S.\*, O’Connor, C., Halls, J.N., Leonard, L., Dorton, J., Alsbrooks, C., & Wells, D. (2026). Hydrological connectivity: improving coastal literacy and resilience in classrooms and communities in the City of Wilmington [Community Case Study]. Frontiers in Water, Volume 7 - 2025. [doi.org/10.3389/frwa.2025.1719742](https://doi.org/10.3389/frwa.2025.1719742).
@@ -130,6 +133,9 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 [Most cited article in Methods in Oceanography as of Dec 27, 2017.]
 
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. [doi.org/10.1021/ac202537f](https://doi.org/10.1021/ac202537f).
+
+#### Working Papers
+Cross, J.N., Achterberg, E.P., Atamanchuk, D., Bresnahan, P.J., Byrne, R.H., DeGrandpre, M.D., Fennel, K., Hales, B., Loucaides, S., Martz, T.R., Savoie, A.M., & Wang, Z.A. (in review). Marine carbonate chemistry observing and mCDR: new processes, needs, and systems.
 
 ### PEER-REVIEWED CONFERENCE PROCEEDINGS AND PRE-PRINTS:
 Farquhar, E., Goldstein, E., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., and Anarde, K. (in review). Detection of coastal flooding with TinyCamML: a low-cost, privacy-preserving cellular-connected camera with onboard ML. Preprint available on Earth ArXiv at [doi.org/10.31223/X5GF20](https://doi.org/10.31223/X5GF20). 
@@ -215,57 +221,72 @@ Please see [Lab Members](../lab-members/) for the most up-to-date information on
 
 ### TEACHING EXPERIENCE:
 Please see [Teaching](../teaching/) more details on my courses.  
-·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022, 2023, Spring 2023).  
-·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, 2021, 2023, Spring 2021, Spring 2023).  
-·	UNCW Smart Coasts (OCN 479; Fall 2020, 2021, 2022).  
-·	UNCW Field Methods in Oceanography (OCN 390; Spring 2021).  
-·	Applied Coastal Science and Engineering (Summer 2021, 2022, 2023). Invited to design and teach pre-college research course for NC School of Science and Mathematics' Summer Ventures program.  
-·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19). I delivered four lectures and led three practical, project-based exercises for students designed to teach how oceanographic sensors function and are operated in the field.  
-·	Invited instructor for two-week summer course: “Satellite Remote Sensing” (2019). I delivered one week of lectures and spent two weeks teaching students with interactive lessons on Python programming for ocean satellite data analysis.  
-·	Designed and taught project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learned to make an ocean sensor package using open source code and hardware and we contributed to improvements for the GitHub repository (2019).  
-·	Invited instructor for California Science Teachers Association Climate Summit (2018). Worked with professional educators to develop a two-week high school chemistry curriculum focused on climate change and ocean acidification.  
-·	Teaching assistant for SIO269/179: Instrumental Methods for Marine Science (2014, 15, 17, 18, 19).  
-·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).  
+·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022, 2023, 2024, 2025, 2026, Spring 2023)  
+·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, 2021, 2023, 2025, Spring 2021, 2023, 2024, 2025, 2026)  
+·	UNCW Smart Coasts (OCN 479/GLY 579; Fall 2022, 2024, Spring 2026)  
+·	UNCW Field Methods in Oceanography (OCN 390; Spring 2021, 2025)  
+·	UNCW Ocean Observing Systems (OCN 470; Spring 2026)  
+·	Invited guest lecturer at Cornell Satellite Remote Sensing Training Course (2023, 2024, 2026)  
+·	Invited guest lecturer at Coral Reef Field Course, Georgia Southern University and Nova Southeastern University (2022, 2024, and 2025)  
+·	Participation in and organizational support for Ocean Observatories Initiative (OOI) Data Labs Workshop (2–5 June 2024)  
+·	Applied Coastal Science & Engineering (Summer 2021, 2022, 2023). Invited to design and teach intensive pre-college research course for NC School of Science and Mathematics Summer Ventures in Science and Mathematics program.  
+·	Center for Teaching Excellence Course Design Institute participant (summer 2022)  
+·	Designed and taught project-based learning portion of Observational Physical Oceanography with Instructor-of-Record Prof. Fiamma Straneo (2019)  
+·	Invited instructor for California Science Teachers Association Climate Summit (2018)  
+·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Sweden (2015, 19)  
+·	Invited instructor for two-week summer course: “Satellite Remote Sensing” Fiji (2019)  
 
-### INVITED SEMINARS AND CONFERENCE LEADERSHIP ROLES:
-·	Southeast Coastal Ocean Observing Regional Association, invited seminar speaker (2024)
-·	Global Marine Science Summit, UNCW, invited speaker (2023)  
-·	Moss Landing Marine Laboratory, SJSU, invited seminar speaker (2022)  
-·	Nova Southeastern University’s NSF Field Course in Australia, invited speaker and student mentor (2022)  
-·	National Science Foundation’s Frontiers in Ocean Sciences Symposium, invited speaker (2020 & 2021)  
-·	University of Georgia, Skidaway Institute of Oceanography, invited seminar speaker (2021)  
-·	University of Hawaiʻi at Mānoa, Ocean Resources & Engineering, invited seminar speaker (2021)  
-·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018)  
-·	Session Chair and invited presentations at IEEE/MTS Oceans Conference (2017)  
-·	UC San Diego, Scripps Institutional Seminar (2017, invited by Scripps Director of Innovation and Commercialization)
-·	UC San Diego, Scripps Applied Ocean Sciences Seminar (2017)  
-·	UC San Diego, Scripps Marine Chemistry Seminar (2017)  
-·	Co-organizer of workshop titled “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016)  
-·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015)  
+### INVITED SEMINARS:
+·	National Oceanography Centre, Southampton, UK (2025)  
+·	University of Hull, Energy and Environment Institute, Hull, UK (2025)  
+·	Southeast Coastal Ocean Observing Regional Association (SECOORA), Charleston, SC (2024)  
+·	Global Marine Science Summit, UNC Wilmington. Wilmington, NC (2023)  
+·	San Jose State University, Moss Landing Marine Laboratory (2022)  
+·	University of Georgia, Skidaway Institute of Oceanography (2021)  
+·	University of Hawaiʻi at Mānoa, Ocean Resources & Engineering (2021)  
+·	National Science Foundation, Frontiers in Ocean Sciences Symposium (invited by Director of NSF Ocean Sciences Division to present 2020, return for panel in 2021)  
+·	University of New Hampshire, Mechanical Engineering, Durham, NH (2020)  
+·	Monterey Bay Aquarium Research Institute (MBARI), Moss Landing, CA (2020)  
+·	Hakai Institute, Quadra Island, BC, Canada (2019)  
+·	UC San Diego, Scripps Institutional Seminar, La Jolla, CA (2017)  
+·	UC San Diego, Scripps Applied Ocean Sciences, La Jolla, CA (2017)  
+·	UC San Diego, Scripps Marine Chemistry, La Jolla, CA (2017)  
+
 
 ### SERVICE TO UNIVERSITY:
-·	UNCW Dept. of Earth & Ocean Sciences Faculty Hiring Committee (Chair 2023–present)
-·	UNCW Dept. of Earth & Ocean Sciences Diversity, Equity, and Inclusion Committee (2021–present; Chair 2021–23)
-·	UNCW Marine & Coastal Sciences Council (elected member 2021–present; Vice Chair 2023–present)
-·	UNCW Marine & Coastal Sciences Council Subcommittee for Policies, Procedures, and Membership (Chair 2023–present)
-·	UNCW Center for Marine Science Makerspace Faculty Coordinator (2020–present)
-·	Established and participate in department Inclusivity Working Group with student, staff, and faculty membership (2023–present)
-·	UNCW Dept. of Earth & Ocean Sciences Marketing & Public Relations Committee (2022–23)
-·	Established and chaired UNCW Dept. of Earth & Ocean Sciences ad hoc Committee on Cape Fear CC Transfer Partnership (Chair 2021–23)
-·	UNCW Dept. of Earth & Ocean Sciences Events & Awards Committee (2021–23; Chair 2021–22)
-·	UNCW Dept. of Earth & Ocean Sciences Chair’s Advisory Committee (Elected 2021)
-·	UNCW College of Arts & Sciences Crews Scholarship Review Committee (2021, 2023)
-·	Global Marine Science Summit steering committee member (2023)
-·	UNCW Pod leader for NSF and WHOI–sponsored Unlearning Racism in Geoscience (URGE) program (2021)
-·	UCSD Scripps Sandbox Makerspace committee (ex officio, 2019–20) 
+·	UNCW Dept. of Earth & Ocean Sciences Welcoming & Belonging Committee (co-founder/co-chair, 2024–present)  
+·	UNCW Dept. of Earth & Ocean Sciences Oceanography Curriculum Coordinator (2024–present)  
+·	UNCW Dept. of Earth & Ocean Sciences Oceanography Policies & Procedures Committee (2025–present)  
+·	UNCW Marine & Coastal Sciences Council (elected member 2021–25; Vice Chair 2023–24; Chair 2024–25)  
+·	UNCW Center for Marine Science Strategic Planning Committee (2024–25)  
+·	UNCW Dept. of Earth & Ocean Sciences Diversity, Equity, and Inclusion Committee (co-founder/member, 2021–24; Chair 2021–23)  
+·	UNCW Marine & Coastal Sciences Council Subcommittee for Policies, Procedures, and Membership (Chair 2023–24)  
+·	UNCW Dept. of Earth & Ocean Sciences Faculty Hiring Committee (Chair 2023–24)  
+·	Established and coordinate department Inclusivity Working Group with student, staff, and faculty membership (2023–present)  
+·	Presenter, panel moderator, and steering committee member, Global Marine Science Summit, Center for Marine Science, UNCW (2023)  
+·	UNCW Dept. of Earth & Ocean Sciences Marketing & Public Relations Committee (2022–23)  
+·	Established and chaired UNCW Dept. of Earth & Ocean Sciences ad hoc Committee on Cape Fear CC Transfer Partnership (Chair 2021–23)  
+·	UNCW Dept. of Earth & Ocean Sciences Events & Awards Committee (2021–23; Chair 2021–22)  
+·	UNCW Dept. of Earth & Ocean Sciences Chair’s Advisory Committee (Elected 2021)  
+·	UNCW College of Arts & Sciences Crews Scholarship Review Committee (2021, 2023)  
+·	UNCW Pod leader for NSF and WHOI–sponsored Unlearning Racism in Geoscience (URGE; 2021)  
+·	UCSD Scripps Sandbox Makerspace committee (ex officio, 2019–20)  
 
 ### SERVICE TO SCIENTIFIC COMMUNITY:
-·	NASA Grant Proposal Panelist (2023)  
-·	Southeast Ocean and Coastal Acidification Network Science Working Group member (2021–present)  
-·	Proposal reviewer for NSF OTIC (2021)  
-·	Proposal reviewer for NOAA Ocean Acidification Program (2020)  
-·	Proposal Reviewer for Woods Hole Sea Grant (2019)  
-·	Peer reviewer for: Environmental Monitoring & Assessment, Limnology & Oceanography: Methods, Ocean Science, Continental Shelf Research, Oceanography, Sustainability, Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE, Results in Engineering  
+·	Associate Editor for Oceanography (journal of The Oceanography Society)—DIY Oceanography section (inducted January 2026)  
+·	Proposal ad-hoc reviewer: NSF (2026, 2021), MN Sea Grant (2026), USCRP (2024), NOAA OAP (2020), WHOI Sea Grant (2019)
+·	Proposal Review Panels: NSF (2024), NASA (2023)  
+·	Session Chair at AGU Fall Meeting, New Orleans, LA (2025)  
+·	AGU Distributed Sensing Technical Committee Member (2024–present)  
+·	Southeast Coastal and Ocean Observing Regional Association (SECOORA) Education and Outreach Committee member (2024–present)  
+·	Pier2Peer Mentor for NOAA Ocean Acidification Program (2024–25)  
+·	AGU Fall Meeting Outstanding Student Presentation Awards reviewer (2024)  
+·	Peer reviewer for: Environmental Monitoring & Assessment, Limnology & Oceanography: Methods, Ocean Science, Continental Shelf Research, Oceanography, Sustainability, Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE, Results in Engineering, Flow Measurement and Instrumentation  
+·	Southeast Ocean and Coastal Acidification Network, Science Working Group member (2021–2024)  
+·	Chair of Ocean Sciences Meeting town hall: “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies.” Portland, OR (2018)  
+·	Session Chair IEEE/MTS Oceans Conference. Anchorage, AK (2017)  
+·	Co-organizer of workshop titled “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” Richmond, CA (2016)  
+·	Invited panelist at the Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015)  
 
 ### OUTREACH AND INFORMAL EDUCATION:
 ·	For a list of and hyperlinks to > 30 interviews, please see 
