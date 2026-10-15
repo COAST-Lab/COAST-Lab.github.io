@@ -67,8 +67,10 @@ Total funding managed as PI or Project Director: $5,568,476.
 ·	Research donation from Scripps Foundation for Science & the Environment (PI). $5,000 (2013).
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated May 2026; * denotes student author_  
+_last updated Oct 2026; * denotes student author_  
 #### Published:
+Cross, J. N., Achterberg, E. P., Atamanchuk, D., Bresnahan, P. J., Byrne, R. H., DeGrandpre, M. D., Fennel, K., Hales, B., Loucaides, S., Martz, T. R., Savoie, A. M., & Wang, Z. A. (2026). Marine Carbonate System Observing and mCDR: New Processes, Needs, and Systems. Chemical Reviews. [doi.org/10.1021/acs.chemrev.5c01007](https://doi.org/10.1021/acs.chemrev.5c01007).
+
 Torkelson, M.\*, Bresnahan, P.J. (corresponding author), Rivero-Calle, S., Masud-Ul-Alam, M., Brewin, R.J.W., & Wells, D. (2026). Integrating In Situ Measurements and Satellite Imagery for Coastal Physical and Biological Analysis in the Cape Fear Coastal Region. Remote Sensing, 18(10), 1524. [doi.org/10.3390/rs18101524](https://doi.org/10.3390/rs18101524).
 
 Farquhar, E.B., Goldstein, E.B., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., & Anarde, K. (2026). Detection of Coastal Flooding With TinyCamML: A Low-Cost, Privacy-Preserving Cellular-Connected Camera With Onboard ML. Water Resour Res, 62(3), e2025WR042023. [doi.org/10.1029/2025WR042023](https://doi.org/10.1029/2025WR042023).
@@ -133,9 +135,6 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 [Most cited article in Methods in Oceanography as of Dec 27, 2017.]
 
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. [doi.org/10.1021/ac202537f](https://doi.org/10.1021/ac202537f).
-
-#### Working Papers
-Cross, J.N., Achterberg, E.P., Atamanchuk, D., Bresnahan, P.J., Byrne, R.H., DeGrandpre, M.D., Fennel, K., Hales, B., Loucaides, S., Martz, T.R., Savoie, A.M., & Wang, Z.A. (in review). Marine carbonate chemistry observing and mCDR: new processes, needs, and systems.
 
 ### PEER-REVIEWED CONFERENCE PROCEEDINGS AND PRE-PRINTS:
 Farquhar, E., Goldstein, E., Bresnahan, P.J., Settin, B.\*, Stasiewicz, J., and Anarde, K. (in review). Detection of coastal flooding with TinyCamML: a low-cost, privacy-preserving cellular-connected camera with onboard ML. Preprint available on Earth ArXiv at [doi.org/10.31223/X5GF20](https://doi.org/10.31223/X5GF20). 
