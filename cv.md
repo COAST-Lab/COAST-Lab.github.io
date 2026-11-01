@@ -187,12 +187,13 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 Please see [Lab Members](../lab-members/) for the most up-to-date information on our research team.  
 
 ·	Committee chair for PhD in Applied Coastal and Ocean Sciences student:  
--	Adam Lucas (beginning Fall 2024). Thesis TBD.  
+-	Adam Lucas (beginning Fall 2024). Dissertation TBD.  
 
 ·	Committee chair for Master of Science students:  
--	Diego Morales (current). Thesis TBD.  
--	Bentley Settin (current). Thesis TBD.  
--	Stephen Lail (current), Thesis: Design, fabrication, and application of low-cost Lagrangian drifters: Examining biogeochemical processes of tidal creeks.  
+-   Daniel Saydkhuzhin (current). Thesis TBD.
+-	Diego Morales (current). Evaluating a Low-Cost Bio-Optical Device for Use in Water Quality Monitoring, Remote Sensing, and Participatory Science.  
+-	Bentley Settin (2026). Development of a novel water level and rainfall sensor for monitoring and education efforts in Wilmington, NC.  
+-	Stephen Lail (2026), Thesis: Design, fabrication, and application of low-cost Lagrangian drifters: Examining biogeochemical processes of tidal creeks.  
 -	Jessie Wynne (2024), Thesis: Low-cost multiparameter water quality instrument development for participatory science–based evaluation of satellite imagery. Now a Research Specialist at UNC Chapel Hill.  
 -	Mitch Torkelson (2024), Thesis: Integrating in-situ measurements and satellite imagery for coastal biogeochemical analysis in the Cape Fear River Estuary. Now a Geospatial Analyst.  
 -	Elizabeth Farquhar (2023), Thesis: Developing a low-cost device for estimating air–water ∆pCO2 in coastal environments. Now Research Specialist at NC State University.  
@@ -238,7 +239,7 @@ Please see [Teaching](../teaching/) more details on my courses.
 ### INVITED SEMINARS:
 ·	National Oceanography Centre, Southampton, UK (2025)  
 ·	University of Hull, Energy and Environment Institute, Hull, UK (2025)  
-·	Southeast Coastal Ocean Observing Regional Association (SECOORA), Charleston, SC (2024)  
+·	Southeast Coastal Ocean Observing Regional Association (SECOORA), [webinar](https://youtu.be/iAt-eQZeKl0?si=j_Y1NXP2ho6d7IvO) (2024)  
 ·	Global Marine Science Summit, UNC Wilmington. Wilmington, NC (2023)  
 ·	San Jose State University, Moss Landing Marine Laboratory (2022)  
 ·	University of Georgia, Skidaway Institute of Oceanography (2021)  
