@@ -31,7 +31,7 @@ _2010 -- 2012:_&nbsp;&nbsp;Graduate Commercialization Analyst, Scripps Instituti
 ·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014).  
 ·	Scripps Community Outreach for Public Education most frequent volunteer (2013 & 2014).  
 ·	National Defense Science & Engineering Graduate Fellowship (NDSEG, 2010–13).  
-·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008–09).  
+·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008–09).   
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### GRANTS:
