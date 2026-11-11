@@ -38,6 +38,7 @@ _2010 -- 2012:_&nbsp;&nbsp;Graduate Commercialization Analyst, Scripps Instituti
 Total funding managed as PI or Project Director: $5,568,476.  
 
 *Active:*  
+·	University of North Carolina System Office Research Opportunities Initiative: Integrated Sensing for Resilient Coasts, Crops, and Communities. Nelson, N. (PI), Anarde, K., Ardón, M., Ben-Horin, T., Herbst, E., Osburn, C., Poole, C., Schnetzer, A., Hino, M., Bresnahan, P.J., and Leonard, L. (Co-PIs). $1,500,000 ($99,605) (2026–29).  
 ·	New Hanover Community Endowment: Planning enhanced flood safety and resilience for New Hanover County: Phase 1. Halanych, K. (PI), Bresnahan, P.J. (Co-PI and Project Director), Leonard, L. (Co-PI). $500,000 (2025–27).  
 ·	WRRI-USGS 104b: Canaries in the coal mine; ghost forests signal ecosystem and water quality degradation. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $120,000 (2026–28).  
 ·	University of North Carolina System Office: Enhancement of IoT Flood and Water Quality Monitoring: Collaborative Real-Time Monitoring of Flood Drivers and Impacts across the State. Leonard, L. (PI), Bresnahan, P.J., and Hovis, M. (Co-PIs). $25,000 (2026).  
