@@ -38,7 +38,7 @@ _2010 -- 2012:_&nbsp;&nbsp;Graduate Commercialization Analyst, Scripps Instituti
 Total funding managed as PI or Project Director: $5,568,476.  
 
 *Active:*  
-·	New Hanover County Endowment: Planning enhanced flood safety and resilience for New Hanover County: Phase 1. Halanych, K. (PI), Bresnahan, P.J. (Co-PI and Project Director), Leonard, L. (Co-PI). $500,000 (2025–27).  
+·	New Hanover Community Endowment: Planning enhanced flood safety and resilience for New Hanover County: Phase 1. Halanych, K. (PI), Bresnahan, P.J. (Co-PI and Project Director), Leonard, L. (Co-PI). $500,000 (2025–27).  
 ·	WRRI-USGS 104b: Canaries in the coal mine; ghost forests signal ecosystem and water quality degradation. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $120,000 (2026–28).  
 ·	University of North Carolina System Office: Enhancement of IoT Flood and Water Quality Monitoring: Collaborative Real-Time Monitoring of Flood Drivers and Impacts across the State. Leonard, L. (PI), Bresnahan, P.J., and Hovis, M. (Co-PIs). $25,000 (2026).  
 ·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. Bresnahan, P.J. (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2,220,332 (2022–26).  
@@ -183,8 +183,10 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ·	Bresnahan, P.J., Martz, T.R. (2018). An internet of things smart sensor accessory for watersports. UCSD Docket SD2018-342.  
 ·	Martz, T.R., Bresnahan, P.J. (2014). A profiling float Micro-Rosette. UCSD Docket SD2014-193.
 
-### STUDENT MENTORING:
+### STUDENT & POSTDOCTORAL SCHOLAR MENTORING:
 Please see [Lab Members](../lab-members/) for the most up-to-date information on our research team.  
+
+·	Postdoctoral Scholar: Kyra Hagge (2026–present)  
 
 ·	Committee chair for PhD in Applied Coastal and Ocean Sciences student:  
 -	Adam Lucas (beginning Fall 2024). Dissertation TBD.  
