@@ -7,4 +7,4 @@ group :jekyll_plugins do
 end
 
 gem "webrick", "~> 1.8"
-gem "nokogiri", "~> 1.19.7"
+gem "nokogiri", "~> 1.18.0"
