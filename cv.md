@@ -34,11 +34,11 @@ _2010 -- 2012:_&nbsp;&nbsp;Graduate Commercialization Analyst, Scripps Instituti
 ·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008–09).   
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
-### GRANTS:
+### GRANTS (listed as: total//amount to Bresnahan if different from total):
 Total funding managed as PI or Project Director: $5,568,476.  
 
 *Active:*  
-·	University of North Carolina System Office Research Opportunities Initiative: Integrated Sensing for Resilient Coasts, Crops, and Communities. Nelson, N. (PI), Anarde, K., Ardón, M., Ben-Horin, T., Herbst, E., Osburn, C., Poole, C., Schnetzer, A., Hino, M., Bresnahan, P.J., and Leonard, L. (Co-PIs). $1,500,000 ($99,605) (2026–29).  
+·	University of North Carolina System Office Research Opportunities Initiative: Integrated Sensing for Resilient Coasts, Crops, and Communities. Nelson, N. (PI), Anarde, K., Ardón, M., Ben-Horin, T., Herbst, E., Osburn, C., Poole, C., Schnetzer, A., Hino, M., Bresnahan, P.J., and Leonard, L. (Co-PIs). $1,500,000//$99,605 (2026–29).  
 ·	New Hanover Community Endowment: Planning enhanced flood safety and resilience for New Hanover County: Phase 1. Halanych, K. (PI), Bresnahan, P.J. (Co-PI and Project Director), Leonard, L. (Co-PI). $500,000 (2025–27).  
 ·	WRRI-USGS 104b: Canaries in the coal mine; ghost forests signal ecosystem and water quality degradation. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $120,000 (2026–28).  
 ·	University of North Carolina System Office: Enhancement of IoT Flood and Water Quality Monitoring: Collaborative Real-Time Monitoring of Flood Drivers and Impacts across the State. Leonard, L. (PI), Bresnahan, P.J., and Hovis, M. (Co-PIs). $25,000 (2026).  
@@ -48,19 +48,18 @@ Total funding managed as PI or Project Director: $5,568,476.
 *Completed:*  
 ·	UNCW Research Office, Interdisciplinary Research Seminar Series. The Flood Risk and Resilience Seminar Series: Advancing Research-Based Solutions for Coastal North Carolina. Hovis, M. (PI), Leonard, L., Halls, J., Bresnahan, P.J., Schuhmann, P., Song, Y., Sutter, L., Biddle, J. (Co-PIs). $10,000 (2025–26).  
 ·	UNCW Sustainability Office, The Green Initiative Fund. Ghost Forest Formation Along the Cape Fear River of North Carolina, USA. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (Co-PIs). $2,677 (2025–26).  
-·	NSF Division of Computer and Network Systems (2244123): REU Site: Engineers for Exploration. Kastner, R., and Schurgers, C. (PIs), Bresnahan, P.J. (Senior Personnel). $473,631 (2023–26).  
+·	NSF Division of Computer and Network Systems (2244123): REU Site: Engineers for Exploration. Kastner, R., and Schurgers, C. (PIs), Bresnahan, P.J. (Senior Personnel). $473,631//$0 (2023–26).  
 ·	University of North Carolina System Office. Real-Time, IoT Monitoring of UNC Wilmington’s Living Laboratories: Applications in Flood and Water Quality Research to Address Sustainability and Resilience. Leonard, L. (PI), Bresnahan, P.J. (Co-PI). $24,997 (2024–25).
 ·	North Carolina Sea Grant and Water Resources Research Institute Community Collaborative Research Grant. Hydrological Connectivity: Improving Coastal Literacy and Resilience in Classrooms and Communities in the City of Wilmington. Bresnahan, P.J. (PI), Harris, C., Halls, J., Leonard, L., Frensley, B.T., Moran, E. (Co-PIs). $24,916 (2024–25).  
 ·	UNCW Office of Applied Learning Community Based Learning & Scholarship Grant. Co-producing knowledge to build resilient communities in the face of climate change. Hovis, M. (PI), Bresnahan, P.J., Frensley, B.T., Harris, C. (Co-PIs). $7,500 (2025).  
 ·	UNCW Center for Marine Science/University of Hull Collaborative Grant Opportunity. Building a Bi-National, Hyperlocal Data Twin for Improved Coastal Water Resource Monitoring and Resilience. Bresnahan, P.J. (PI), Osborne, A., McLelland, S., Thomas, R. (Co-PIs). $9,000 (2025).  
 ·	UNCW Research Office, Charles L. Cahill Grant. Rother, M. (PI), Bresnahan, P.J., and Hawkes, A. (co-PIs). A multidisciplinary approach to assessing the vulnerability of bald cypress wetlands to flooding and increased salinity levels. $11,923 (2023–24).  
 ·	UNCW Research Office, Research Momentum Funds. Surfing for science: Advancing informal STEM learning through a large-scale network for public participation in science in diverse coastal communities. Frensley, B.T. (PI), Bresnahan, P.J. (co-PI). $20,000 (2024).  
-·	NOAA Small Business Innovative Research Phase II (NA22OAR0210490): The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), Bresnahan, P.J. (Key Individual). $499,986 (2022–23).  
-·	NOAA Small Business Innovative Research Phase I (NA21OAR0210489): pHyter: An Oceanographic Tool for Citizen Science and STEM Education. Spaulding, R. (PI, Sunburst Systems, Inc.), Beck, J., and Bresnahan, P.J. (Key Individual). $149,991 (2021–22).  
+·	NOAA Small Business Innovative Research Phase II (NA22OAR0210490): The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), Bresnahan, P.J. (Key Individual). $499,986//$28,182 (2022–23).  
+·	NOAA Small Business Innovative Research Phase I (NA21OAR0210489): pHyter: An Oceanographic Tool for Citizen Science and STEM Education. Spaulding, R. (PI, Sunburst Systems, Inc.), Beck, J., and Bresnahan, P.J. (Key Individual). $149,991//$14,997 (2021–22).  
 ·	UNCW Office of Innovation and Commercialization MARBIONC Blue Economy Grant: A low-cost coastal carbon flux analyzer. Bresnahan, P.J. (PI). $11,466 (2020).  
 ·	UNCW Research Office, Research Momentum Funds: Exploring spatiotemporal variability in carbon dioxide fluxes via novel sensor/drone/satellite integrations. Bresnahan, P.J. (PI), Pricope, N. and Halls, J. (co-PIs). $5,500 (2020).  
-·	Joint CeNCOOS and SCCOOS (Central and Northern and Southern California Coastal Ocean Observing Systems) 5-year Planning Opportunity. National Oceanic and Atmospheric Administration: Towards interoperable pH measurements from the shore station network using self-calibrating pH sensors, Martz, T.R. (PI), Smith, J., Carter, M., Takeshita, Y., Bockmon, E., Walter, R., Kudela, R., Bresnahan, P.J. (Co-Is). $510,000. (2020–25). (NB: I contributed to proposal but left the state when award was granted; funds were disbursed to CA-only investigators.)  
-·	NSF Ocean Technology and Interdisciplinary Coordination (1736905): Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. Bresnahan, P.J., and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $675,399 (2017–21).  
+·	NSF Ocean Technology and Interdisciplinary Coordination (1736905): Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. Bresnahan, P.J., and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $675,399//$567,582 (2017–21).  
 ·	Lost Bird Project. Smartfin research and development. Helped attract research donation; led research and project/budget management as PI. In collaboration with Martz, T., Andersson, A., and Cyronak, T. $1,250,000 (2016–19).  
 ·	Ellen Browning Scripps Foundation Award (PI). $15,000 (2019).  
 ·	San Diego Gas & Electric Community Engagement Award (PI). $7,500 (2018).  
@@ -68,8 +67,10 @@ Total funding managed as PI or Project Director: $5,568,476.
 ·	Research donation from Scripps Foundation for Science & the Environment (PI). $5,000 (2013).
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Oct 2026; * denotes student author_  
+_last updated Nov 2026; * denotes student author_  
 #### Published:
+\*Gerdes, M.E., Rother, M.T., Hawkes, A.D., & Bresnahan, P.J. (2026). Saltwater Intrusion Threatens Old-Growth Bald Cypress Trees Adjacent to Ghost Forests in Smith Creek, North Carolina. Dendrochronologia, 126627. [doi.org/10.1016/j.dendro.2026.126627](https://doi.org/10.1016/j.dendro.2026.126627).
+
 Cross, J. N., Achterberg, E. P., Atamanchuk, D., Bresnahan, P. J., Byrne, R. H., DeGrandpre, M. D., Fennel, K., Hales, B., Loucaides, S., Martz, T. R., Savoie, A. M., & Wang, Z. A. (2026). Marine Carbonate System Observing and mCDR: New Processes, Needs, and Systems. Chemical Reviews. [doi.org/10.1021/acs.chemrev.5c01007](https://doi.org/10.1021/acs.chemrev.5c01007).
 
 Torkelson, M.\*, Bresnahan, P.J. (corresponding author), Rivero-Calle, S., Masud-Ul-Alam, M., Brewin, R.J.W., & Wells, D. (2026). Integrating In Situ Measurements and Satellite Imagery for Coastal Physical and Biological Analysis in the Cape Fear Coastal Region. Remote Sensing, 18(10), 1524. [doi.org/10.3390/rs18101524](https://doi.org/10.3390/rs18101524).
